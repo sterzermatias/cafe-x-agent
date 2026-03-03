@@ -1,6 +1,6 @@
 # cafe-x-agent
 
-Agente AI para X (Twitter) que genera y publica tweets sobre cualquier tema relevante, aprendiendo del perfil [@--user--](https://x.com/--user--), sus likes, retweets, tweets anteriores y el feed "For You".
+Jarvis para X (Twitter) que genera y publica tweets sobre cualquier tema relevante, aprendiendo del perfil [@--user--](https://x.com/--user--), sus likes, retweets, tweets anteriores y el feed "For You".
 
 Interactúa vía bot de Telegram para aprobaciones y notificaciones. Corre de forma permanente en una **Raspberry Pi Zero 2W**.
 
