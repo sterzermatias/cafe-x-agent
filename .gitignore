@@ -24,3 +24,8 @@ lerna-debug.log*
 .tmp
 
 /.claude/
+
+# SQLite database
+db.sqlite
+db.sqlite-wal
+db.sqlite-shm
