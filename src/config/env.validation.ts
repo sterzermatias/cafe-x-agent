@@ -46,6 +46,22 @@ export class EnvironmentVariables {
   @IsString()
   @IsOptional()
   DB_PATH: string = 'db.sqlite';
+
+  @IsString()
+  @IsOptional()
+  RSS_FEED_URLS: string = '';
+
+  @IsString()
+  @IsOptional()
+  ANTHROPIC_HAIKU_MODEL: string = 'claude-haiku-4-5-20251001';
+
+  @IsString()
+  @IsOptional()
+  ANTHROPIC_SONNET_MODEL: string = 'claude-sonnet-4-20250514';
+
+  @IsString()
+  @IsOptional()
+  TWEET_EXPORT_PATH: string = '';
 }
 
 export function validate(config: Record<string, unknown>) {
