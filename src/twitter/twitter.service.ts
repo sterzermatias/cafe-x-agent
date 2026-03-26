@@ -16,12 +16,12 @@ export class TwitterService implements OnModuleInit {
   // OnModuleInit: NestJS llama a este método después de crear la instancia
   // Ideal para inicializar clientes que necesitan config (no se puede hacer en el constructor)
   onModuleInit() {
-    // OAuth 1.0a — autenticación con 4 tokens (app + user)
+    // OAuth 1.0a — autenticación con 4 tokens (consumer keys + access tokens)
     const twitterClient = new TwitterApi({
-      appKey: this.config.get<string>('TWITTER_APP_KEY')!,
-      appSecret: this.config.get<string>('TWITTER_APP_SECRET')!,
+      appKey: this.config.get<string>('TWITTER_CONSUMER_KEY')!,
+      appSecret: this.config.get<string>('TWITTER_CONSUMER_KEY_SECRET')!,
       accessToken: this.config.get<string>('TWITTER_ACCESS_TOKEN')!,
-      accessSecret: this.config.get<string>('TWITTER_ACCESS_SECRET')!,
+      accessSecret: this.config.get<string>('TWITTER_ACCESS_TOKEN_SECRET')!,
     });
 
     // .v2 usa la API v2 de Twitter (más moderna que v1.1)

@@ -22,11 +22,11 @@ export class EnvironmentVariables {
 
   @IsString()
   @IsNotEmpty()
-  TWITTER_APP_KEY: string;
+  TWITTER_CONSUMER_KEY: string;
 
   @IsString()
   @IsNotEmpty()
-  TWITTER_APP_SECRET: string;
+  TWITTER_CONSUMER_KEY_SECRET: string;
 
   @IsString()
   @IsNotEmpty()
@@ -34,7 +34,11 @@ export class EnvironmentVariables {
 
   @IsString()
   @IsNotEmpty()
-  TWITTER_ACCESS_SECRET: string;
+  TWITTER_ACCESS_TOKEN_SECRET: string;
+
+  @IsString()
+  @IsOptional()
+  TWITTER_BEARER_TOKEN: string = '';
 
   @IsString()
   @IsNotEmpty()
