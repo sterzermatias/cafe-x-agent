@@ -9,7 +9,9 @@ import { GeneratedTweet } from './entities/generated-tweet.entity.js';
 import { ProfileSummary } from './entities/profile-summary.entity.js';
 import { LearningModule } from './learning/learning.module.js';
 import { RSSModule } from './rss/rss.module.js';
+import { SchedulerModule } from './scheduler/scheduler.module.js';
 import { TelegramModule } from './telegram/telegram.module.js';
+import { HealthModule } from './health/health.module.js';
 import { TweetGeneratorModule } from './tweet-generator/tweet-generator.module.js';
 import { TwitterModule } from './twitter/twitter.module.js';
 
@@ -51,6 +53,8 @@ import { TwitterModule } from './twitter/twitter.module.js';
     LearningModule,
     TweetGeneratorModule,
     TelegramModule,
+    SchedulerModule,
+    HealthModule,
   ],
 })
 export class AppModule {}
