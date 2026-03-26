@@ -1,8 +1,10 @@
 import { Injectable, Logger, OnModuleInit } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
+// Bottleneck = rate limiter — controla cuántas llamadas por segundo se hacen a la API
 import Bottleneck from 'bottleneck';
 import { TwitterApi, type TwitterApiv2 } from 'twitter-api-v2';
 
+// Publish-only: Free tier de X API solo permite postear/borrar tweets y lookup de usuario
 @Injectable()
 export class TwitterService implements OnModuleInit {
   private readonly logger = new Logger(TwitterService.name);
@@ -11,7 +13,10 @@ export class TwitterService implements OnModuleInit {
 
   constructor(private readonly config: ConfigService) {}
 
+  // OnModuleInit: NestJS llama a este método después de crear la instancia
+  // Ideal para inicializar clientes que necesitan config (no se puede hacer en el constructor)
   onModuleInit() {
+    // OAuth 1.0a — autenticación con 4 tokens (app + user)
     const twitterClient = new TwitterApi({
       appKey: this.config.get<string>('TWITTER_APP_KEY')!,
       appSecret: this.config.get<string>('TWITTER_APP_SECRET')!,
@@ -19,13 +24,16 @@ export class TwitterService implements OnModuleInit {
       accessSecret: this.config.get<string>('TWITTER_ACCESS_SECRET')!,
     });
 
+    // .v2 usa la API v2 de Twitter (más moderna que v1.1)
     this.client = twitterClient.v2;
 
+    // Rate limiter: máximo 1 request cada 2 segundos, sin concurrencia
     this.limiter = new Bottleneck({
       minTime: 2000,
       maxConcurrent: 1,
     });
 
+    // Si recibe 429 (rate limit), reintenta con backoff progresivo hasta 3 veces
     this.limiter.on('failed', (error: unknown, jobInfo) => {
       const retryCount = jobInfo.retryCount;
       const errorCode = (error as Record<string, unknown>)?.code;
@@ -41,6 +49,7 @@ export class TwitterService implements OnModuleInit {
     this.logger.log('Twitter client initialized with rate limiter');
   }
 
+  // Publica un tweet y devuelve el ID + URL
   async postTweet(content: string): Promise<{ id: string; url: string }> {
     try {
       const result = await this.schedule(() => this.client.tweet(content));
@@ -80,6 +89,7 @@ export class TwitterService implements OnModuleInit {
           'user.fields': ['description', 'public_metrics'],
         }),
       );
+      // Destructuring: extrae propiedades del objeto y renombra "username" a "handle"
       const {
         id,
         name,
@@ -101,6 +111,7 @@ export class TwitterService implements OnModuleInit {
     }
   }
 
+  // Wrapper privado: todas las llamadas pasan por el rate limiter
   private schedule<T>(fn: () => Promise<T>): Promise<T> {
     return this.limiter.schedule(fn);
   }

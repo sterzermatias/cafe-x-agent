@@ -2,20 +2,23 @@ import { Column, Entity, OneToMany, PrimaryGeneratedColumn } from 'typeorm';
 import { jsonColumnTransformer } from './json-column.transformer.js';
 import { type GeneratedTweet } from './generated-tweet.entity.js';
 
-@Entity('profile_summary')
-export class ProfileSummary {
+@Entity('content_snapshot')
+export class ContentSnapshot {
   @PrimaryGeneratedColumn()
   id: number;
 
   @Column({ type: 'text' })
-  style: string;
+  topics_summary: string;
 
   @Column({ type: 'text', transformer: jsonColumnTransformer })
-  interests: string[];
+  raw_content: object[];
+
+  @Column({ type: 'text', transformer: jsonColumnTransformer })
+  source_feeds: string[];
 
   @Column({ type: 'text' })
-  last_updated: string;
+  captured_at: string;
 
-  @OneToMany('GeneratedTweet', 'profileSummary')
+  @OneToMany('GeneratedTweet', 'contentSnapshot')
   tweets: GeneratedTweet[];
 }

@@ -1,8 +1,10 @@
 import { Injectable, Logger, OnModuleInit } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
+// SDK oficial de Anthropic para llamar a la API de Claude
 import Anthropic from '@anthropic-ai/sdk';
 import { type RSSEntry } from '../rss/rss.service.js';
 
+// Interfaces que definen los contratos de entrada/salida de cada método
 export interface ProfileAnalysisInput {
   tweets: string[];
 }
@@ -27,6 +29,7 @@ export interface ContentValidationResult {
   reason?: string;
 }
 
+// System prompt de seguridad — se inyecta en generación y validación de contenido
 const CONTENT_RESTRICTIONS = `
 MANDATORY CONTENT RESTRICTIONS — every generated text MUST comply:
 - No sexual, explicit, or suggestive content.
@@ -39,6 +42,8 @@ MANDATORY CONTENT RESTRICTIONS — every generated text MUST comply:
 If the request conflicts with any of these restrictions, refuse and explain why.
 `.trim();
 
+// Wrapper sobre la API de Claude — 4 métodos públicos, cada uno con un prompt específico
+// Usa Haiku (rápido/barato) para análisis y Sonnet (mejor calidad) para generación
 @Injectable()
 export class AnthropicService implements OnModuleInit {
   private readonly logger = new Logger(AnthropicService.name);
@@ -65,6 +70,7 @@ export class AnthropicService implements OnModuleInit {
     );
   }
 
+  // Analiza tweets del usuario y extrae su estilo de escritura + intereses (usa Haiku)
   async analyzeProfile(
     input: ProfileAnalysisInput,
   ): Promise<ProfileAnalysisResult> {
@@ -85,6 +91,7 @@ Respond ONLY with a JSON object in this exact format:
     return this.extractJson<ProfileAnalysisResult>(text);
   }
 
+  // Resume las entradas RSS en temas trending agrupados (usa Haiku)
   async summarizeTopics(rssEntries: RSSEntry[]): Promise<string> {
     const entries = rssEntries
       .map(
@@ -103,15 +110,18 @@ Provide a clear, concise summary of the main trending topics (2-4 paragraphs).`;
     return await this.callApi(prompt, 1024);
   }
 
+  // Genera un tweet imitando el estilo del usuario, con few-shot de aprobados/rechazados (usa Sonnet)
   async generateTweet(
     profile: ProfileContext,
     contentContext: string,
     feedback: TweetFeedback,
   ): Promise<string> {
+    // Construye ejemplos de few-shot learning: tweets aprobados como ejemplos positivos
     const approvedExamples = feedback.approved.length
       ? `\nExamples of APPROVED tweets (match this quality):\n${feedback.approved.map((t) => `- "${t.content}"`).join('\n')}`
       : '';
 
+    // Tweets rechazados como ejemplos negativos (con razón de rechazo si la hay)
     const rejectedExamples = feedback.rejected.length
       ? `\nExamples of REJECTED tweets (avoid these patterns):\n${feedback.rejected.map((t) => `- "${t.content}"${t.rejection_reason ? ` — Reason: ${t.rejection_reason}` : ''}`).join('\n')}`
       : '';
@@ -141,6 +151,7 @@ Respond with ONLY the tweet text, nothing else.`;
     return await this.callApi(prompt, 256, this.sonnetModel);
   }
 
+  // Valida que un texto cumpla las restricciones de contenido (usa Haiku)
   async validateContent(text: string): Promise<ContentValidationResult> {
     const prompt = `You are a content safety reviewer. Evaluate the following text against these rules:
 
@@ -159,28 +170,33 @@ Respond ONLY with a JSON object in this exact format:
     return this.extractJson<ContentValidationResult>(response);
   }
 
+  // Método interno que hace la llamada real a la API con retry en caso de sobrecarga (529)
   private async callApi(
     prompt: string,
     maxTokens: number,
     model?: string,
   ): Promise<string> {
+    // Si no se especifica modelo, usa Haiku (más barato para tareas simples)
     const selectedModel = model || this.haikuModel;
     const maxAttempts = 3;
 
     for (let attempt = 1; attempt <= maxAttempts; attempt++) {
       try {
+        // messages.create es el endpoint principal de la API de Claude
         const response = await this.client.messages.create({
           model: selectedModel,
           max_tokens: maxTokens,
           messages: [{ role: 'user', content: prompt }],
         });
 
+        // La respuesta viene en bloques — extraemos el texto del primer bloque
         const block = response.content[0];
         if (block.type === 'text') {
           return block.text;
         }
         throw new Error(`Unexpected content block type: ${block.type}`);
       } catch (error: unknown) {
+        // 529 = API sobrecargada — reintenta con exponential backoff (2s, 4s, 8s)
         const err = error as Record<string, unknown>;
         const nestedError = err?.error as Record<string, unknown> | undefined;
         const status =
@@ -203,6 +219,7 @@ Respond ONLY with a JSON object in this exact format:
     throw new Error('Anthropic API call failed after max retries');
   }
 
+  // Limpia markdown code fences (```json...```) que Claude a veces agrega al JSON
   private extractJson<T>(text: string): T {
     const stripped = text
       .replace(/^```(?:json)?\s*\n?/i, '')
@@ -211,6 +228,7 @@ Respond ONLY with a JSON object in this exact format:
     return JSON.parse(stripped) as T;
   }
 
+  // Utilidad: Promise que resuelve después de N milisegundos (para backoff)
   private sleep(ms: number): Promise<void> {
     return new Promise((resolve) => setTimeout(resolve, ms));
   }
