@@ -140,11 +140,12 @@ ${rejectedExamples}
 ${CONTENT_RESTRICTIONS}
 
 RULES:
-- The tweet MUST be 280 characters or fewer.
+- The tweet MUST be 280 characters or fewer (including the mandatory sign-off).
 - Write in the user's natural voice and style.
 - Make it engaging and authentic, not generic.
 - Do NOT include hashtags unless the user's style typically uses them.
 - Do NOT use quotes or wrap the tweet in quotes.
+- The tweet MUST end with "aguante la pizza papa" as a sign-off. Always include it.
 
 Respond with ONLY the tweet text, nothing else.`;
 
