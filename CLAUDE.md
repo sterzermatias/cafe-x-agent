@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-cafe-x-agent is a NestJS AI agent for X (Twitter) that generates and publishes tweets on any relevant topic, learning from the user's profile (@sterzermatiass), likes, retweets, previous tweets, and "For You" feed. It uses a Telegram bot for approvals/notifications and runs on a Raspberry Pi Zero 2W.
+cafe-x-agent is a NestJS AI agent for X (Twitter) that generates and publishes tweets on any relevant topic, learning from the user's tweet export (one-time seed), RSS feeds, and manual input via Telegram. The X API Free tier is publish-only (no reading likes/timeline/search). It uses a Telegram bot for approvals/notifications/topic input and runs on a Raspberry Pi Zero 2W.
 
 Architecture and implementation plans are in `.claude/architecture-plan.md` and `.claude/implementation-plan.md`.
 
@@ -30,15 +30,16 @@ Run a single test file: `npx jest --testPathPattern=<filename>`
 NestJS 11 modular architecture with these planned modules:
 
 - **ConfigModule** — `@nestjs/config` with env validation
-- **TelegramModule** — grammy bot, commands (`/start`, `/aprender`, `/generar`, `/status`), inline keyboard approvals, user whitelist
-- **TwitterModule** — `twitter-api-v2` client with bottleneck rate limiting. Methods: `fetchProfile()`, `fetchLikes()`, `fetchUserTweets()`, `fetchHomeFeed()`, `postTweet()`
-- **AnthropicModule** — Claude Haiku wrapper for profile analysis, feed summarization, tweet generation
-- **LearningModule** — Analyzes profile + interactions + feed via Twitter & Anthropic, persists ProfileSummary and FeedSnapshot
-- **TweetGeneratorModule** — Generates tweets using profile context + feed, handles approve/reject flow
-- **SchedulerModule** — `@nestjs/schedule` crons: feed capture 2x/day, daily tweet proposal
+- **TelegramModule** — grammy bot, commands (`/start`, `/aprender`, `/generar`, `/tema`, `/status`), inline keyboard approvals with rejection reasons, user whitelist
+- **TwitterModule** — `twitter-api-v2` publish-only (Free tier). Methods: `postTweet()`, `deleteTweet()`, `lookupUser()`
+- **RSSModule** — `rss-parser` for configurable RSS feeds, captures trending content (replaces Twitter reading)
+- **AnthropicModule** — Claude API wrapper with model selection: Haiku for analysis/summarization/validation, Sonnet for tweet generation
+- **LearningModule** — Analyzes tweet export + RSS content + manual input via Anthropic, persists ProfileSummary and ContentSnapshot
+- **TweetGeneratorModule** — Generates tweets using profile context + RSS content + feedback loop (approved/rejected tweets as few-shot), handles approve/reject with reasons, full traceability
+- **SchedulerModule** — `@nestjs/schedule` crons: RSS content capture 2x/day, daily tweet proposal
 - **HealthModule** — `GET /health` endpoint for Pi monitoring
 
-**Database:** SQLite via TypeORM (`better-sqlite3`). Entities: `ProfileSummary`, `GeneratedTweet`, `FeedSnapshot`.
+**Database:** SQLite via TypeORM (`better-sqlite3`). Entities: `ProfileSummary`, `GeneratedTweet` (with rejection_reason, generation_context, FK traceability), `ContentSnapshot` (replaces FeedSnapshot).
 
 ## Code Style
 
