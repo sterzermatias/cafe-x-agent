@@ -1,32 +1,2750 @@
 [
   {
-    "full_text": "La IA no te va a reemplazar. Te va a reemplazar alguien que sepa usar IA. Pero plot twist: a ese también lo van a reemplazar cuando la IA aprenda a usarse sola. Bienvenidos a la cadena alimenticia 2.0."
+    "full_text": "@gptcrosa Me sumoo"
   },
   {
-    "full_text": "Cada vez que alguien dice 'la IA va a eliminar todos los trabajos' me acuerdo que en 1995 decían lo mismo del email y acá estamos, 30 años después, ahogados en mails que nadie lee."
+    "full_text": "@gptcrosa @brenditech Me interesa sr"
   },
   {
-    "full_text": "El que diseña software sin pensar en la mantenibilidad es el mismo que construye una casa sin puertas. Sí, técnicamente funciona. No, no querés vivir ahí."
+    "full_text": "RT @Samaytwt: Unpopular opinion : software engineering is the only career where interview is harder than the job. https://t.co/tdOUy6vmxT"
   },
   {
-    "full_text": "Hot take: el 90% de los microservicios deberían ser un monolito bien hecho. Pero claro, 'monolito' no queda tan lindo en el CV como 'distributed event-driven architecture'."
+    "full_text": "RT @Tiempodetenis1: - Entrevistador: ¿Te alegra que exista Novak Djokovic?\n\n- Nadal: ¡No! Me gustan los retos, pero no soy tonto.\n\n😂 La sin…"
   },
   {
-    "full_text": "La revolución industrial reemplazó músculo con máquinas. La revolución de IA reemplaza cognición con modelos. La diferencia es que esta vez los que escriben los artículos de opinión son los afectados. De ahí el pánico."
+    "full_text": "RT @midudev: 🚩 Red flags de equipos de desarrollo en 2026\n\n- La IA decide más que las personas\n- Juniors fuera de decisiones importantes\n-…"
   },
   {
-    "full_text": "Silicon Valley: donde un pibe de 23 años levanta 50 millones para una app que reemplaza algo que ya funcionaba perfectamente, le pone IA al nombre, y le dice 'disruption' al quilombo que genera."
+    "full_text": "RT @santtiagom_: Gran roadmap para aprender Claude Code 👇\n\nSi estás arrancando:\n\n1) Entendé el loop (context → action → verification → iter…"
   },
   {
-    "full_text": "Aprendí más sobre arquitectura de software leyendo código legacy que en cualquier curso de Udemy. El legacy te enseña qué NO hacer, que es literalmente el 80% del conocimiento útil en esta industria."
+    "full_text": "RT @Benderkt68: @carlosadams ✅ **Aquí tienes el link de GitHub del repo claw-code** (el que reescribió Sigrid Jin):\n\n**https://t.co/r02Vtns…"
   },
   {
-    "full_text": "El futuro del trabajo no es humanos vs IA. Es humanos que entienden el problema + IA que ejecuta la solución. Si no entendés el problema, no importa qué tan bueno sea tu copilot. Basura entra, basura sale, pero más rápido."
+    "full_text": "RT @carlosadams: Anthropic la cagó a las 4AM.\n\nPushearon un update con 512.000 líneas de su código fuente. Accidentalmente. Todo su propiet…"
   },
   {
-    "full_text": "Nuevo framework de JavaScript cada 3 meses. Nueva base de datos serverless cada trimestre. Clean architecture: 20 años y sigue funcionando. Pero la gente quiere aprender 'lo nuevo'. Hermano, aprendé lo que dura."
+    "full_text": "RT @5eniorDeveloper: Descansa en                  Trabaja en          \nsemana santa                semana santa https://t.co/QqkQdQFluN"
   },
   {
-    "full_text": "Mi predicción para 2027: las empresas que hoy están reemplazando equipos enteros con IA van a estar contratando desesperadamente a humanos que entiendan por qué su IA genera reportes que suenan perfectos pero dicen puras mentiras."
+    "full_text": "RT @Tiempodetenis1: Así fue el día que Roger Federer le contó de su retiro a Rafael Nadal.\n\n❤️🥹 FEDAL. https://t.co/4v05VGOg3Z"
+  },
+  {
+    "full_text": "RT @charliesbot: Esta herramienta me encantó.\n\nLearn Claude Code Interactively es un mini curso dónde vas a aprender a usar CC con ejercici…"
+  },
+  {
+    "full_text": "RT @mal_shaik: https://t.co/PKHTg8RhvF"
+  },
+  {
+    "full_text": "RT @DamianCatanzaro: $380b company"
+  },
+  {
+    "full_text": "RT @ML_Argentina: https://t.co/fdSP3jvVIh"
+  },
+  {
+    "full_text": "El pibe que dice \"Federer es el GOAT por su elegancia\" es el mismo que después putea cuando pierde en 5 sets (plot twist: en software también preferimos el código \"elegante\" hasta que crashea en producción, hermano) aguante la pizza papa"
+  },
+  {
+    "full_text": "que carajo esta twittiando mi bot amigos"
+  },
+  {
+    "full_text": "Mirando Wimbledon y pensando: en tenis no podés hacer \"hotfix\" en el medio del partido ni culpar al framework cuando perdés un set (plot twist: Djokovic nunca dijo \"funciona en mi máquina\" después de mandar una pelota afuera, hermano) aguante la pizza papa"
+  },
+  {
+    "full_text": "El pibe que dice \"vamos a migrar todo a la nube para ahorrar costos\" es la misma persona que después te muestra la factura de AWS de 50k USD por mes (plot twist: dejaron corriendo 200 instancias para \"testing\" desde enero, hermano) aguante la pizza papa"
+  },
+  {
+    "full_text": "RT @Tiempodetenis1: ¡La carrera de Stan Wawrinka es una locura!\n\n🔥 Fue N°3 del mundo.\n👑 Ganó el Australian Open, Roland Garros y US Open.\n🏆…"
+  },
+  {
+    "full_text": "RT @24conurbano: #Ituzaingó “HACEME CASO QUE NO TE VA A PASAR NADA”: LE HICIERON UNA ENTRADERA AL CANTANTE “PONTE PERRO”, EN LA FUGA TIROTE…"
+  },
+  {
+    "full_text": "RT @SMnoticias: ● Caco liquidado y dos detenidos tras impactante persecución en Ituzaingó.\n\n○ Primero, le robaron a \"Ponte Perro\" en el des…"
+  },
+  {
+    "full_text": "RT @AnthropicAI: New on the Engineering Blog: How we designed Claude Code auto mode.\n\nMany Claude Code users let Claude work without permis…"
+  },
+  {
+    "full_text": "RT @juliandeangeIis: https://t.co/ADVg8Ijdg7"
+  },
+  {
+    "full_text": "RT @LeyvaCFM_: - Uber no tiene autos\n- Airbnb no tiene casas\n- Amazon no tiene ninguna tienda \n- Spotify no tiene los derechos de la música…"
+  },
+  {
+    "full_text": "RT @alangosiker: Comparto esta data muy buena:\nKaszek, Anthropic y Digital house hacen una hackaton el 14/4\n\nMuy buenos mentores y emprende…"
+  },
+  {
+    "full_text": "bueno el loco se puso a tuitiar y metio spam, terrible"
+  },
+  {
+    "full_text": "Laburando desde Buenos Aires para una empresa en Maldivas y el pibe de DevOps me dice \"el deploy falló por latencia de red\" (plot twist: la conexión satelital tiene más lag que mi abuela aprendiendo Zoom, hermano) aguante la pizza papa"
+  },
+  {
+    "full_text": "Todos hablando de microservicios hasta que necesitan debuggear por qué el checkout tarda 15 segundos en cargar (plot twist: hay 47 servicios comunicándose para validar si el usuario puede comprar una remera, hermano) aguante la pizza papa"
+  },
+  {
+    "full_text": "primeras pruebas de mi agente 'cafe-x' +100, el loco tuitea en base a un contexto bastante controlado, veremos de seguir haciendo pruebas"
+  },
+  {
+    "full_text": "El pibe que dice \"vamos a usar AI para optimizar el performance\" es la misma persona que después te pregunta por qué la app consume 8GB de RAM para mostrar un botón (plot twist: el modelo está calculando la probabilidad cuántica de cada pixel, hermano) aguante la pizza papa"
+  },
+  {
+    "full_text": "El pibe que dice \"vamos a implementar AI en todo\" es la misma persona que después te pregunta por qué la facturación subió 300% en la nube (plot twist: el modelo está entrenando con los logs de producción cada vez que crashea, hermano)"
+  },
+  {
+    "full_text": "El pibe que dice \"necesitamos adoptar la nueva JS framework que salió ayer\" es la misma persona que después te deja 3 años de legacy code en React 16 porque se fue a otra startup (plot twist: ahora están migrando de Angular a Vue, hermano)"
+  },
+  {
+    "full_text": "El pibe que te dice \"la IA va a reemplazar a todos los developers\" es la misma persona que después te pide que le arregles el quilombo que hizo ChatGPT con su código (plot twist: el bot generó 500 líneas para hacer un hello world, hermano)"
+  },
+  {
+    "full_text": "El pibe que dice \"vamos a migrar todo a microservices porque Netflix lo hace\" es la misma persona que después te llama a las 3 AM porque el sistema está caído y resulta que ahora tenés 47 servicios fallando en lugar de uno solo (plot twist: el monolito nunca se rompía, hermano)"
+  },
+  {
+    "full_text": "El pibe que dice \"vamos a automatizar el deploy con AI\" es la misma persona que después te llama en pánico porque el bot decidió que \"refactoring\" significaba borrar toda la base de datos (plot twist: el prompt decía \"clean up the code\", hermano)"
+  },
+  {
+    "full_text": "RT @midudev: Primer trailer de la serie de Harry Potter.\nTengo sentimientos encontrados. 🥹 ¿Qué te parece? https://t.co/mJbIfrpfFo"
+  },
+  {
+    "full_text": "RT @Tiempodetenis1: 😂 TRANQUI EL FESTEJO.\n\nFRANCISCO CERÚNDOLO, DE ARGENTINA AL MUNDO.\n\n🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷\n\nhttps://t.co/PW1gjJAaAb"
+  },
+  {
+    "full_text": "@ArrepentidosLLA este feiman es un pelotudo igualmente, al pedo le dan visibilidad"
+  },
+  {
+    "full_text": "RT @maxifirtman: Cursor, un entorno IA para programadores, ayer lanzó un nuevo modelo para programar que compite con los mejores de Anthrop…"
+  },
+  {
+    "full_text": "RT @jmgmoron: Le pregunta @BenRothenberg a Fonseca por diferencias entre jugar con Sinner y Alcaraz.\n\nSu respuesta lo explica todo.\n\n🗣️ \"Cr…"
+  },
+  {
+    "full_text": "RT @LealtadSabia: https://t.co/qwTst16RQw"
+  },
+  {
+    "full_text": "RT @PqTTExplorer: \"MSN\"\n\nPorque Microsoft mostró cómo será la interfaz de inicio de su nuevo chat online. https://t.co/cFVP9sRBv0"
+  },
+  {
+    "full_text": "RT @culturaliteral1: https://t.co/alHHlawSVV"
+  },
+  {
+    "full_text": "RT @labandainvierno: Compren desodorante.\nPrimavera estación alérgica, chivera, lluviosa y nefasta."
+  },
+  {
+    "full_text": "RT @culturaliteral1: https://t.co/njyDXjpjWu"
+  },
+  {
+    "full_text": "RT @labandainvierno: Volveremos mejores.\nMas fríos y demoledores."
+  },
+  {
+    "full_text": "RT @HollywoodHandle: Demián Rugna (‘When Evil Lurks’) is possibly set to direct the ‘ALIEN: ROMULUS’ sequel.\n\n(Via: https://t.co/bYp86sdtzF…"
+  },
+  {
+    "full_text": "RT @pibesdesistemas: 🇦🇷"
+  },
+  {
+    "full_text": "@arielsbdar @dosinaga2 gracias ari!"
+  },
+  {
+    "full_text": "@dosinaga2 qué onda esto dani? cocos lo mismo , me dejó 4 veces nomas @arielsbdar"
+  },
+  {
+    "full_text": "@LuisCaputoAR @grok  cual es exactamente el precio de la banda superior mencionada por Luis Caputo?"
+  },
+  {
+    "full_text": "RT @arielsbdar: @dotplot_ todo pasa por algo"
+  },
+  {
+    "full_text": "RT @Guarromantico_: *Has consumido todos tus megas*\n\nYo: https://t.co/uCOxoa12Yj"
+  },
+  {
+    "full_text": "yo pensé que si me rajaban del laburo iba a laburar menos!!!! y es al reves!!!!!!!!!!"
+  },
+  {
+    "full_text": "RT @dosinaga2: Primera vez de la historia que se cae un veto?"
+  },
+  {
+    "full_text": "Lo importante acá es que Novak se cuide lo más posible para la semi"
+  },
+  {
+    "full_text": "RT @DDuck2002: @porqueTTarg Telefé de la putísima nada: https://t.co/eVwQ3gmmfk"
+  },
+  {
+    "full_text": "RT @EregionLas: @clavoymartilleo https://t.co/ClpeBuh5ot"
+  },
+  {
+    "full_text": "RT @LugarCinema: Edward Norton es, seguramente, el actor más infravalorado que he visto.\n\nSe comenta mucho que era complicado en los rodaje…"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: This scene from The Dark Knight has some of the best dialogue and line delivery in a Christopher Nolan film.\n https://t.c…"
+  },
+  {
+    "full_text": "RT @LuccasCorsino: 🟢 Renunciar a mi trabajo sale bien\n\nConsejo que nadie me pidió: EMPRENDAN\n\nTras 7 años en relación de dependencia en cor…"
+  },
+  {
+    "full_text": "RT @cinefiliacult: Y cierro con ella, mi querida gente de cine♥️😎\n\n“¡25 años Benjamín!”… sea como sea, es imposible cerrar mejor…💔💔\nQuédens…"
+  },
+  {
+    "full_text": "RT @Megadeth: BREAKING NEWS! https://t.co/b2X1JQrHql"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: I still haven’t recovered from that ending.\n https://t.co/ITYVZR1eFI"
+  },
+  {
+    "full_text": "RT @pbarbieri: Felicidades a @cocoscap por la compra de Voii, sujeto a BCRA. Todo lo mejor. La competencia eleva!"
+  },
+  {
+    "full_text": "RT @BlazeBinges: Spider-Man: The Animated Series  \nOpening Theme https://t.co/1hvXodSvQW"
+  },
+  {
+    "full_text": "RT @Guarromantico_: Martes. https://t.co/ekjTkQAW0Z"
+  },
+  {
+    "full_text": "RT @anellogaby: Riquelme logró lo que nadie se imaginó \nPelearle la idolatría a Labruna y Gallardo \nEs tan mala su gestión en Boca, que los…"
+  },
+  {
+    "full_text": "El triple hdp de mi hermano hoy tirandose en paracaídas 🪂 nunca esperarme un mes más no\n@Gaby_Cardozoo"
+  },
+  {
+    "full_text": "RT @agarra_pala: 🤯 PAPELÓN EN TN: INVITAN UN QUÍMICO CREYENDO QUE ERA ANALISTA\nConfunden a Hernesto Julio Calvo con el politólogo Federico…"
+  },
+  {
+    "full_text": "RT @apple_c0rps: ozzy osbourne’s top ten favourite beatles songs and why: https://t.co/WbzJez0qhV"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Ozzy Osbourne\"\n\nPor este video donde se ve como rompió su acuerdo y trató de pararse durante su último show con Black Sab…"
+  },
+  {
+    "full_text": "RT @NoContextBrits: Ozzy Osbourne meeting his lifelong idol, Paul McCartney in 2001. https://t.co/WkUXymyvEm"
+  },
+  {
+    "full_text": "RT @jmgmoron: Un minuto de Roger Federer rompiendo tobillos a sus rivales.\n\nNada mejor para una noche de verano. https://t.co/dWNw5mRZ7r"
+  },
+  {
+    "full_text": "RT @Batman_GothamBW: Si una cosa me dejó The Dark Knight Rises fue un trauma cinematográfico. Estar yo sentado en el cine, con 12 años, vie…"
+  },
+  {
+    "full_text": "RT @TheBatmanlogic: No matter how many times I rewatch this scene, it gives me chills every single time. The Dark Knight Rises, released 13…"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: The final scene in 'The Dark Knight Rises' (2012) of Bruce Wayne finding happiness was planned when they started writing…"
+  },
+  {
+    "full_text": "@Gaby_Cardozoo Y ganas"
+  },
+  {
+    "full_text": "@Gaby_Cardozoo Bien que tenes abuela"
+  },
+  {
+    "full_text": "RT @fedetbq: Che no pueden ser todos Project Manager/ TeamLeader. Alguno tiene que laburar en serio."
+  },
+  {
+    "full_text": "Qué invierno de mierda estamos teniendo. Estafado"
+  },
+  {
+    "full_text": "RT @LuisAlvarez_1: Han transcurrido 532 días entre el título del Abierto de Australia de 2024 y el de Wimbledon de 2025 de Sinner. \n\nEn la…"
+  },
+  {
+    "full_text": "RT @Tiempodetenis1: Siempre hay que recordarlo.\n\n83 de los últimos 84 Grand Slams fueron ganados por jugadores europeos.\n\n¿La excepción? Ju…"
+  },
+  {
+    "full_text": "Como la estará pasando @delpotrojuan \nComo se extrañan esos martillazos de derecha"
+  },
+  {
+    "full_text": "@Gaby_Cardozoo Hasta que se terminó"
+  },
+  {
+    "full_text": "Me duele me lastima"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: Almost 13 years since this scene\nhttps://t.co/o1Tt2RtcAI"
+  },
+  {
+    "full_text": "El tiempo, el que no perdona https://t.co/gGpc4w2pTz"
+  },
+  {
+    "full_text": "RT @jmgmoron: Qué cabrón es el tiempo.\n\nCuando te quieres dar cuenta, descubres que te cuesta hacer cosas que antes hacías casi sin problem…"
+  },
+  {
+    "full_text": "RT @TheCinesthetic: one of the best endings in recent memory.\n https://t.co/CYwm8bU5MC"
+  },
+  {
+    "full_text": "RT @jmgmoron: Djokovic habla del por qué muchos tenistas se queman mentalmente y sufren problemas de salud mental.\n\n🗣️ “El tenis tiene la t…"
+  },
+  {
+    "full_text": "Si no sentis la musica no me hables https://t.co/XJjlDqs11h"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Team\"\n\nPorque la ola de frío reavivó el debate en la Argentina: ¿es mejor el calor o el frío? https://t.co/ovBD4c4eEU"
+  },
+  {
+    "full_text": "RT @HombreHatman: @porqueTTarg https://t.co/dLAe08lM58"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 VELORIO TUMBERO CON TIROS Y CORTE DE MOTOS: ASÍ FUE EL RITUAL PARA DESPEDIR A LAS VÍCTIMAS DE UN DOBLE CRIMEN\n- A los jóv…"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Desubicada\"\n\nPor la discusión que tuvieron dos mamis en un chat del jardín: \"Sos una desubicada...\". https://t.co/8oJMug3…"
+  },
+  {
+    "full_text": "@Gaby_Cardozoo Si amigo"
+  },
+  {
+    "full_text": "RT @arielsbdar: Por qué hay tanta gente que quiere que a Argentina le vaya mal? No lo entiendo"
+  },
+  {
+    "full_text": "RT @jmgmoron: Después de la quinta victoria seguida de Alcaraz sobre Sinner, seguro que mucha gente se hizo esta pregunta:\n\n¿Qué tiene Carl…"
+  },
+  {
+    "full_text": "Los que le pegan a Juan, tendrán comprensión lectora???\nLo que dijo fue literalmente lo que pasó https://t.co/BSNIivPrHc"
+  },
+  {
+    "full_text": "RT @Nike: The future of tennis is in good hands. https://t.co/7fWX0qzmMb"
+  },
+  {
+    "full_text": "RT @jmgmoron: Larga vida a los quintos sets.\n\nLarga vida a los Grand Slams."
+  },
+  {
+    "full_text": "RT @delpotrojuan: Realmente admirable lo de estos campeones, también el respeto y educación entre ellos, sus equipos, sus familias. \nAprend…"
+  },
+  {
+    "full_text": "RT @delpotrojuan: Si Jannik no baja un poco el nivel y la intensidad, no veo chance para Carlitos, haga lo que haga no le va a dar resultad…"
+  },
+  {
+    "full_text": "RT @TheCinesthetic: the ending of se7en (1995) https://t.co/g6tFiT69lG"
+  },
+  {
+    "full_text": "RT @Miguelcmm1: Esta no es la imagen de una derrota.\n\nEs la imagen de alguien que sabe que por fin ha ganado lo único que le faltaba, la ad…"
+  },
+  {
+    "full_text": "RT @gerebit0: Alcaraz pidiendo ovación para Musetti durante su salida de la pista y mandándole ánimos al equipo del italiano es todo lo que…"
+  },
+  {
+    "full_text": "Comparación tiradisima de los pelos https://t.co/Kc5gfvolRs"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: Coming in 2026 https://t.co/xNesiRu7bv"
+  },
+  {
+    "full_text": "RT @santos_barrio: 🚨 MILEI QUIERE ELIMINAR LOS ESCRIBANOS 🚨\n\nHoy los escribanos son un grupo cerrado, con cupos donde muy pocos pueden acce…"
+  },
+  {
+    "full_text": "RT @arielsbdar: Solo hay dos tipos de personas; \n\nlos relevantes o los irrelevantes"
+  },
+  {
+    "full_text": "Qué importante es preocuparse por la educación financiera de uno.\nCon tantas herramientas hoy día, tan solo googlear ya te acerca info… dos clics\nUna lastima"
+  },
+  {
+    "full_text": "RT @Martinpdisalvo: ahhh y una cosa mas, a todos los que participan de los sorteos dia a dia, PROHIBIDO apostarse la guita, guardenla y com…"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 CIRCULABA CON PATENTE TRUCHA, SIN LICENCIA Y QUISO SOBORNAR A LOS POLICÍAS: PRESO\n- Fue en Liniers https://t.co/q3iDIESkow"
+  },
+  {
+    "full_text": "RT @tomiezequiel15: Por favor confirmen si ustedes también tienen una debilidad con este jabón https://t.co/ho5wtl7Naw"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 SE LLEVÓ PUESTO EL CARTEL DE LA GENERAL PAZ\n- El conductor de una Amarok perdió el control y chocó en la bajada Fernández…"
+  },
+  {
+    "full_text": "RT @EsTendenciaEnX: “Detenido”:\nPorque en Rosario detuvieron a un tipo que tenía 57 elementos reales del Holocausto en su casa, usados por…"
+  },
+  {
+    "full_text": "RT @AlertaNews24: 🇺🇸 | URGENTE: Se suicida Virginia Giuffre, la mujer que destapó los escándalos sexuales de Jeffrey Epstein. https://t.co/…"
+  },
+  {
+    "full_text": "RT @marciamartinezz: si sos hombre y medis menos de 1.72 sos caniche"
+  },
+  {
+    "full_text": "RT @barbie_context: https://t.co/vt7VWW1VQI"
+  },
+  {
+    "full_text": "RT @AlpioCosta: #AlpioTips | Después de un largo descanso vuelve el clásico de todos los domingos 🌧️☀️❄️⚡...\n\n¿Cómo salimos de casa esta se…"
+  },
+  {
+    "full_text": "RT @CDividendos: https://t.co/weNe5V0k2i"
+  },
+  {
+    "full_text": "RT @Conanbatt: Si sos founder y le pedis a los empleados que esten en la oficina, vos tenes que estar en la oficina.\n\nTenes que liderar con…"
+  },
+  {
+    "full_text": "RT @Rayobbg: Dios mio el dolar, que sangria.\n\nAlguno puede pensar en los programadores?"
+  },
+  {
+    "full_text": "RT @dan_91m: @porqueTTarg Te compras una Amarok y automáticamente las neuronas son estas: https://t.co/3rqcM5uPBz"
+  },
+  {
+    "full_text": "RT @fernandezpablo: @GastonSardelli “los economistas son todos burros”\n\n- el bajista de los que cantan “cae el sol en tu balcón”"
+  },
+  {
+    "full_text": "Mismas sensaciones …\nPerdón @arielsbdar https://t.co/1z1m9AchB9"
+  },
+  {
+    "full_text": "RT @pbarbieri: Y recuerden amigos: quienes hacen negocios en base a arbitrajes temporarios no construyen valor a largo plazo."
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 LE CHOCARON LA CAMIONETA DE UN EMPLEADO Y COMO VENGANZA CHOCÓ 4 COLECTIVOS CON UNA RETROEXCAVADORA\n- Pasó en José C Paz.…"
+  },
+  {
+    "full_text": "@Gaby_Cardozoo Borra"
+  },
+  {
+    "full_text": "Play https://t.co/i0anfQIepT"
+  },
+  {
+    "full_text": "RT @Conanbatt: Estoy convencido de que la gente que es fuertemente pro-jubilaciones publicas es 100% ignorante en economía. \n\nNo lo digo co…"
+  },
+  {
+    "full_text": "RT @LturcoLeon: Vinimos a comer a Parque Leloir y es tremenda la cantidad de \"New Rich\" que hay por estos pagos. \n\nEs el Nordelta de zona o…"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: https://t.co/tQiB7OPaPh"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: The best super hero trilogy of all time. https://t.co/AWD2KiCSCA"
+  },
+  {
+    "full_text": "@Gaby_Cardozoo Tal cual"
+  },
+  {
+    "full_text": "RT @Dios_0ficial: Información que cura. https://t.co/YK5V992W9p"
+  },
+  {
+    "full_text": "RT @marcoporracin: Miren la carrera de este pibe, es para sacarse el sombrero 🫡 https://t.co/hE5ylhtQRA"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: The Dark Knight (2008) https://t.co/cVK2zoK45J"
+  },
+  {
+    "full_text": "RT @EsTendenciaEnX: “Marte”:\nPorque pusieron una cámara a 225 millones de kilómetros de la tierra y así luce ese planeta https://t.co/qNj3B…"
+  },
+  {
+    "full_text": "RT @horaciorlarreta: Vuelvo.\n\nVoy a participar de las elecciones del 18 de mayo en la Ciudad de Buenos Aires.\n\nPor la ciudad que hicimos ju…"
+  },
+  {
+    "full_text": "Entre hoy y mañana terminaré de ver en el cine LOTR. Brutal."
+  },
+  {
+    "full_text": "Las 500 lucas, anda a saber si seguis vivo en dos años https://t.co/fx8UXKgOe5"
+  },
+  {
+    "full_text": "RT @arielsbdar: Veo gente que quiere cambiar de trabajo, emprender, hacer algo nuevo, pero no confía en sí misma. Si no te la creés, nadie…"
+  },
+  {
+    "full_text": "Cansa impulsar constantemente al otro y que parezca al pedo. Uno se cansa tambien"
+  },
+  {
+    "full_text": "RT @CFKArgentina: Che Milei… ¡Lo tuyo, cada vez peor! Y este viernes, la verdad, batiste récords…\n\nEl viernes por la mañana en EXPO AGRO in…"
+  },
+  {
+    "full_text": "RT @emipatita: Permiso, yo presencié este cambio DOLOROSO https://t.co/zvv2K5jzg1"
+  },
+  {
+    "full_text": "RT @Feellg2: https://t.co/rso2TH3JLS"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 \"MANOS A LA OBRA\": UN VENDEDOR AMBULANTE LOS INSULTÓ Y LOS OBREROS SE DEFENDIERON\n- El agresor agarró una maza, amagó con…"
+  },
+  {
+    "full_text": "RT @javifajardo08: Y luego hay gente que lo llama suerte. https://t.co/U47l0iyfZQ"
+  },
+  {
+    "full_text": "RT @PabloSabbatella: ESTAFA CON UBER Y CABIFY:\nHay una modalidad que están usando los conductores de Uber y Cabify para estafar usuarios y…"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: https://t.co/noytCOdP60"
+  },
+  {
+    "full_text": "RT @AlpioCosta: Excelente @mati_bertolotti recién. Con nombre y apellido."
+  },
+  {
+    "full_text": "RT @agarra_pala: 💣 EN TN DESTROZARON AL ZURDO PALERMITANO MIGUE GRANADOS Y LOS STREAMING TRAS EL TEMPORAL DE BAHIA BLANCA \n\n“Fue un bardeo…"
+  },
+  {
+    "full_text": "Fiesta del Cine hasta el 17/3?\nCita de mí para mí conmigo\n🕺🕺🕺"
+  },
+  {
+    "full_text": "Gracias gracias gracias!"
+  },
+  {
+    "full_text": "@pbarbieri @gladiadormerval Pier te banco pero bajame el CFT"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 FILMÓ A SU HIJO DE 7 AÑOS MANEJANDO Y LO SUBIÓ A LAS REDES\n- Fue en José C Paz. https://t.co/xWrjdLjb3u"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 MATARON AL \"NEGRO SOMBRA\", UNO DE LOS SECUESTRADORES MÁS TEMIBLES\n- Dos hombres lo atacaron a tiros en Talar de Pacheco.…"
+  },
+  {
+    "full_text": "You get what you get"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: https://t.co/v1ufldnZXc"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Starbucks\": \n\nPorque eliminará un total de 13 bebidas de su menú: \n\n- Espresso Frappuccino\n- Caffè Vanilla Frappuccino\n-…"
+  },
+  {
+    "full_text": "@Gaby_Cardozoo Es mutuo amigo❤️🫡"
+  },
+  {
+    "full_text": "RT @arielsbdar: QUE DESASTRE EN LO QUE SE CONVIRTIÓ @LinkedIn, UNA VIDRIERA DE HUMO, TODOS COMPARTIENDO SUS LOGROS (ME INCLUYO), TODOS VEND…"
+  },
+  {
+    "full_text": "Lo importante que es empezar por las bases y no saltarse estaciones"
+  },
+  {
+    "full_text": "Exclama el CEO hablando con el espejo https://t.co/ygxORLuoUv"
+  },
+  {
+    "full_text": "RT @santisiri: un colega amigo mío, experto en machine learning, le aplicó varios filtros al audio sacando el ruido de fondo y normalizando…"
+  },
+  {
+    "full_text": "RT @Mialygosa: Seran viejos.. Pero son asi de Viejos ? https://t.co/CtsO3fH2KH"
+  },
+  {
+    "full_text": "RT @patomolina: El sábado 8 de marzo se viene una hackathon enfocada en AI en Palermo, pensada para gente que quiere construir, probar y la…"
+  },
+  {
+    "full_text": "RT @santisiri: el acto de corrupción más grande de la historia argentina?"
+  },
+  {
+    "full_text": "Kjjjj como que se acaban de chorear 87 palos usd hermano"
+  },
+  {
+    "full_text": "RT @RodrigoSafdiye: No hay nada como el minunto a minuto de twitter en noches historicas como estas."
+  },
+  {
+    "full_text": "Simio simio simio\n\nPreocupa la capacitación tecnológica de la gente joven en arg. El ver reels/tiktok les atrofia la capacidad de análisis de cualquier aplicación https://t.co/Ua1QBuVQ4V"
+  },
+  {
+    "full_text": "RT @Fran_Casaretto_: Así te afanan el techo de un auto a plena luz del día en la Pcia de Kicillof. Me encantaría que la cara de este chorro…"
+  },
+  {
+    "full_text": "RT @Tv_Libertaria: ‼️ ASESINARON en Mar del Plata a KIOSQUERO \n\n➡️\"El Guachin\" MATÓ a kiosquero histórico, al mismo lo asaltaron 4 veces en…"
+  },
+  {
+    "full_text": "Nos hundimos amigos https://t.co/4w7TSJOTjp"
+  },
+  {
+    "full_text": "Guita Familiar en la mayoría .\n70% padres / guita de la familia\n30% el laburo se los permite https://t.co/IdrrdoXNQ2"
+  },
+  {
+    "full_text": "Si tuvieran que elegir una única película para que un tercero vea el resto de su vida y así poder mostrarle lo lindo del cine, cuál sería?"
+  },
+  {
+    "full_text": "Dolió más de lo que quisiera🫠"
+  },
+  {
+    "full_text": "RT @FranColapinto: yo sé que toy duro como paquete de pastilla pero es lo q hay ! SOY PILOTO ta bien q no baile como julio boca"
+  },
+  {
+    "full_text": "RT @lenntlesfc: https://t.co/k7kAaTffkk"
+  },
+  {
+    "full_text": "RT @azuulbenitez_: te extraño todos los días (invierno)"
+  },
+  {
+    "full_text": "RT @BetoMendeleiev_: @arielsbdar Recién te levantas? Yo arranque 5 am, ya metí burpee y desayuné 6 huevos duros. Dia 4 para comprarme el Bu…"
+  },
+  {
+    "full_text": "RT @arielsbdar: HOY VA A SER UN DÍA HISTORICO PARA LA REPUBLICA ARGENTINA SEÑORES, A LABURAR!"
+  },
+  {
+    "full_text": "@DamianCatanzaro Norte de Italia, lo mejor Dami"
+  },
+  {
+    "full_text": "RT @MentalidadFeroz: He simplificado 5 años de lecciones de marketing en imágenes minimalistas.\n\n1. Pagamos por los logotipos, no por los p…"
+  },
+  {
+    "full_text": "RT @evelynzambrana: Q estrés"
+  },
+  {
+    "full_text": "@arielsbdar @dosinaga2 \ncapaz se copan😁"
+  },
+  {
+    "full_text": "alguien tiene data sobre los controles de ARCA(ex AFIP) sobre las billeteras crpyto y las transacciones de los usuarios en dichas plataformas? ejemplo CocosPay , Binance, Lemon."
+  },
+  {
+    "full_text": "RT @ciro_nah: Soy el conductor. Si me pueden ayudar a darle visibilidad a la noticia me ayudarían muchísimo. @JMilei @fantinofantino @mador…"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 INHIBIDORES | EL ROBO DE MODA\n- Así descubrió el conductor de este auto a un delincuente que pescaba víctimas en el estac…"
+  },
+  {
+    "full_text": "RT @agarra_pala: 🚨 CAYÓ UN VECINO CON LOS HUEVOS DE ACERO QUE LE CANTÓ LAS 40 A LOS RUSOS DE LA EMBAJADA:\n\n“No nos dan pelota y no cumplen…"
+  },
+  {
+    "full_text": "RT @Contextovacio: https://t.co/oDpj98oNsa"
+  },
+  {
+    "full_text": "RT @retro_twt: https://t.co/7miX90xc2x"
+  },
+  {
+    "full_text": "RT @notcapucha: es BIEN de CULO ROTO hacer laburar a tus empleados un 24 y 31, pero BIEN eh"
+  },
+  {
+    "full_text": "RT @AlertaNews24: 🇺🇸 | El guatemalteco Sebastián Zapeta ha sido identificado como el hombre que cometió el acto de prender fuego a una muje…"
+  },
+  {
+    "full_text": "RT @porqueTTarg: “Masacre”\n\nPorque en Florencio Varela evitaron que una nena de 12 años, cansada de sufrir bullying, cometiera una masacre…"
+  },
+  {
+    "full_text": "RT @ceofjohnlennon: https://t.co/DVZHvJFlkz"
+  },
+  {
+    "full_text": "RT @Diario_Beatles: Paul McCartney &amp; Ringo Starr Sgt Pepper’s at The O2 Arena, London 🇬🇧 December 19 2024 Angle #1 *video chrismpattinson_o…"
+  },
+  {
+    "full_text": "RT @AndrewTrendell: Paul McCartney + Ringo Starr. Pretty good! https://t.co/cPeFfGbYoE"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 ASESINARON A UNA NENA DE 7 AÑOS Y DETUVIERON AL VECINO POR EL CRIMEN\n- La víctima fue identificada como Nayla Agüero y su…"
+  },
+  {
+    "full_text": "RT @the_tincht: Esto tiene un 1% de la repercusion que tuvo una mina que se olvido un perro adentro de un auto. La verdad que ustedes son m…"
+  },
+  {
+    "full_text": "RT @infobae: La autopsia al cuerpo de la nena asesinada en General Rodríguez reveló que fue violada antes de morir https://t.co/zJKGsMdKoB…"
+  },
+  {
+    "full_text": "RT @NicoOrchid: 🔴QUE TENGAN UN EXCELENTE DÍA! https://t.co/1MeYdesMcj"
+  },
+  {
+    "full_text": "RT @MerGarza: 🔨Sa 🔨 Lu 🔨Dos🔨\n🔨Cor 🔨 dia 🔨 les 🔨\n\n✨ https://t.co/2Njt8UHoss"
+  },
+  {
+    "full_text": "RT @katyamosti: Cancelenme si quieren, pero aca va.\n\nDe la misma manera que hay hoteles que no aceptan niños, debería haber una cláusula pa…"
+  },
+  {
+    "full_text": "RT @ivan_ia_: En 1974 Steve Jobs viajó a la India en busca de iluminación.\n\n7 meses después, volvió con una filosofía que transformaría a A…"
+  },
+  {
+    "full_text": "RT @horametalradio: Qué carajo está pasando acá?"
+  },
+  {
+    "full_text": "@arielsbdar Ari puede ser que sea incompatible la funcion de escaneo de qr con alguna version de iOs? Me tira error de acceso y se cierra :/"
+  },
+  {
+    "full_text": "La escala de lo pelotudo que me parece este pibe va creciendo de manera exponencial"
+  },
+  {
+    "full_text": "@dosinaga2 Mac Air m1/2/3 te sobra para finanzas\nEs un camino de ida como todo producto apple"
+  },
+  {
+    "full_text": "RT @DamianCatanzaro: Yo? Fundamentalista de Timemore, pocas empresas le dedican tanto al detalle y calidad de sus productos. https://t.co/s…"
+  },
+  {
+    "full_text": "RT @retro_twt: Evangelion https://t.co/W7UQM7MIeS"
+  },
+  {
+    "full_text": "RT @fpedrosa2: Me causa rechazo esa devocion sobreactuada por Charly Garcia de una generación de palermitanos treintañeros que lo escucharo…"
+  },
+  {
+    "full_text": "RT @lenntlesfc: https://t.co/IWqfArd9Dd"
+  },
+  {
+    "full_text": "RT @lenntlesfc: https://t.co/8vWaSMkOh7"
+  },
+  {
+    "full_text": "@arielsbdar Uhhhh necesito esa feature yaaaaa"
+  },
+  {
+    "full_text": "la de conseguirte un problema honesto no te la sabes?"
+  },
+  {
+    "full_text": "RT @_Gokuervo: Cuando un one direction transmita algo así de emotivo hablamos pelotudita\n\nhttps://t.co/OPm6eoZ3Yn"
+  },
+  {
+    "full_text": "RT @AlertaNews24: 🇨🇳 | Xi Jinping le pide al ejército chino a prepararse para la guerra.\n https://t.co/jr8SBPCHqM"
+  },
+  {
+    "full_text": "Tienen que elegir bien a donde poner su tiempo panas"
+  },
+  {
+    "full_text": "RT @TheLOTRMemes: https://t.co/ceT26ADbUt"
+  },
+  {
+    "full_text": "Cada cual su propia burbuja 🫧"
+  },
+  {
+    "full_text": "RT @lenntlesfc: https://t.co/SUttPf3erQ"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/Ppay7Pjn5c"
+  },
+  {
+    "full_text": "A querernos más y a aplicar un buen “ you get what you give”\nAl pedo ponerse en caritativo"
+  },
+  {
+    "full_text": "RT @ImagenRetro: Hey, Arnold! (1996 - 2004) 📺 https://t.co/vlKA3b0hxk"
+  },
+  {
+    "full_text": "RT @gptcrosa: No quiero leer a nadie más criticando a este tipo en mi timeline con respecto a su capacidad técnica o productos que saca. Se…"
+  },
+  {
+    "full_text": "RT @sasukeKantana: Pain https://t.co/N2fNKiayLr"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/81iZIsSpvb"
+  },
+  {
+    "full_text": "RT @Bibliomaniatico: \"Yo soy por naturaleza solitario, me siento bien solo, puedo vivir solo, puedo vivir largos periodos solo\"\n\nJulio Cort…"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/5hZ2GIvZG3"
+  },
+  {
+    "full_text": "RT @angelo_uf: ✨️ https://t.co/42QgQgTLfX"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/QS7dHvoLWy"
+  },
+  {
+    "full_text": "RT @TheLOTRMemes: The perfect day: https://t.co/hAc1VXFiTB"
+  },
+  {
+    "full_text": "RT @lenntlesfc: gm https://t.co/NXyu78u4Vg"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 INTENTÓ ABUSAR A UNA MUJER EN UN NEGOCIO, Y LOS VECINOS LO ATRAPARON EN PLENA FUGA\n- Inicialmente, dos policías liberaron…"
+  },
+  {
+    "full_text": "RT @EnsedeCiencia: 🔴 Soundtrack “Las cavernas del Isengard”, de El Señor de los Anillos.\n\nhttps://t.co/BMqYOgDr6V"
+  },
+  {
+    "full_text": "RT @RojoPunzo45: “Yo he visto malos que se han vuelto buenos, pero no he visto jamás un bruto volverse inteligente.”\n\nJuan Domingo Perón 🇦🇷…"
+  },
+  {
+    "full_text": "RT @5eniorDeveloper: Sé que ya es tarde pero salió un error en producción y necesito que te conectes urgentemente! https://t.co/bMn11PdRie"
+  },
+  {
+    "full_text": "RT @juliandeangeIis: Otro artículo muy bueno sobre skills es el de @santtiagom_"
+  },
+  {
+    "full_text": "RT @TodoNegativo: - Hay más pobreza y menos laburo pero yo estoy bien jaja\n- ¿De qué trabajás?\n- No trabajo, estudio en la UBA\n- ¿Estudiarí…"
+  },
+  {
+    "full_text": "RT @EnsedeCiencia: La vida moderna de un trabajador https://t.co/gCgyH2ngHe"
+  },
+  {
+    "full_text": "RT @infobae: Beltrán Briones: \"Lo que ha pasado con las villas es una vergüenza. No tenés escritura querido, afuera\". La nota completa por…"
+  },
+  {
+    "full_text": "RT @arceyul: https://t.co/kMMdy550VQ"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 MATARON A UN DOCENTE QUE TRABAJABA DE DIDI: EL ACUSADO DEL CRIMEN, UN POLICÍA QUE SE HIZO PASAR POR PASAJERO PARA ASALTAR…"
+  },
+  {
+    "full_text": "@fernandezpablo @DamianCatanzaro pablo en cafecito ? queremos ya ese crossover \n*envia cv por abajo de la mesa*"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Amarok\"\n\nPorque este repartidor se encontró con un Amaroki re duro en Puerto Madero. https://t.co/InMdhRadmm"
+  },
+  {
+    "full_text": "RT @DamianCatanzaro: @fernandezpablo Pero flaco ya me compré una granja y tengo 7 gallinas y 2 vacas, tengo que volver a codear?"
+  },
+  {
+    "full_text": "RT @ceciarmy: Uno de los momentos más inolvidables de la historia de la televisión https://t.co/fgopt1Ni3u"
+  },
+  {
+    "full_text": "RT @SantiTorAI: Anthropic ha publicado su curso oficial sobre Claude Code, diseñado para integrar esta herramienta en su flujo de trabajo.…"
+  },
+  {
+    "full_text": "RT @gptcrosa: Acá están todo tratando de tener tanta razón que dejaron de usar el cerebro"
+  },
+  {
+    "full_text": "RT @Conanbatt: Se acabo el gravy train"
+  },
+  {
+    "full_text": "RT @DamianCatanzaro: 1) What"
+  },
+  {
+    "full_text": "RT @porquettfin: \"Steve Jobs\"\n\nPor esta conferencia del fundador de $AAPL en el MIT en 1992 que enseña mejor sobre productos y ventas que c…"
+  },
+  {
+    "full_text": "RT @TTrimoreau: &gt; 2022 - Student \n&gt; 2023 - Developer \n&gt; 2024 - Prompt Engineer \n&gt; 2025 - Vibe coder \n&gt; 2026 - AI agent \n&gt; 2027 - Farmer htt…"
+  },
+  {
+    "full_text": "RT @Conanbatt: No paran de pasarme la imagen de David Sacks.\n\nChicos soy recruiter, yo soy la curva. https://t.co/njvyQDy2aO"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/izGKTCUa3D"
+  },
+  {
+    "full_text": "RT @NarutoVibe: 10/10 https://t.co/EsSzRuTUl9"
+  },
+  {
+    "full_text": "RT @ArchivePaulie: Pau and John \n\n#PaulMcCartney #JohnLennon https://t.co/gBPmBxp7ja"
+  },
+  {
+    "full_text": "RT @Guarromantico_: Ya entendí. https://t.co/rvgxwKuWtc"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/ovTityPw3Q"
+  },
+  {
+    "full_text": "RT @santisiri: el 97% de la gente repite como loro convicciones ajenas."
+  },
+  {
+    "full_text": "RT @lenntlesfc: https://t.co/VQ49jrCOp0"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 SE ROBÓ UNA CAMIONETA DE LA CONCESIONARIA\n- El delincuente entró al local, desconectó la alarma y se llevó el vehículo ro…"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/NbI3VnW5tg"
+  },
+  {
+    "full_text": "Y si mejor cerras un poco el orto"
+  },
+  {
+    "full_text": "RT @porqueTTarg: “Tinelli”\n\nPorque una chica maltrató a una agente de tránsito que le pidió la licencia: “Te voy a escrachar en todas las r…"
+  },
+  {
+    "full_text": "RT @ArchivePaulie: Paul McCartney \n\n#PaulMcCartney https://t.co/XywBQhJiP5"
+  },
+  {
+    "full_text": "RT @saul_meowman: mamita querida https://t.co/ki1gNxnehV"
+  },
+  {
+    "full_text": "RT @saul_meowman: Repito Paul Mccartney invento la música, antes de eso golpeabamos piedras intentando crear armonía"
+  },
+  {
+    "full_text": "RT @adrito_99: Arquetipo: modelo original y primario en un arte u otra cosa.\n\nThat's it. Paul es el arquetipo MÚSICA. Eran los 60 chicos. N…"
+  },
+  {
+    "full_text": "Las diferencias socioculturales se ven en cualquier tipo de conversación, no hace falta indagar mucho\nInsoportable"
+  },
+  {
+    "full_text": "Reseña de un amigo sobre show de McCartney : “Te lo Vende el loco”\n\n."
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 OTRA BATALLA CAMPAL EN EL SARMIENTO https://t.co/CAEQdCe5Gs"
+  },
+  {
+    "full_text": "RT @THEOFFlCEPOSTS: https://t.co/RnXIzoJK14"
+  },
+  {
+    "full_text": "RT @ImagenRetro: 30 de septiembre | 1 de octubre https://t.co/TGkL1UjU2n"
+  },
+  {
+    "full_text": "RT @aminomedigasche: Si se te presenta esto y no sabes usarlo o lo dejas perdiendo déjame decirte que estas en situación de CHETO https://t…"
+  },
+  {
+    "full_text": "RT @retroospace: La gente de mi edad teniendo hijos mientras que mi mayor preocupación es que Oasis anuncie show en Argentina y conseguir e…"
+  },
+  {
+    "full_text": "RT @martinraiz1: En caba (sobre todo en microcentro) siempre hay que mirar para arriba y disfrutar https://t.co/Kma03HhDB5"
+  },
+  {
+    "full_text": "RT @BeautyOfertasMx: https://t.co/nRistQ975M"
+  },
+  {
+    "full_text": "RT @angelo_uf: ✨️ https://t.co/VMw4iJD2OC"
+  },
+  {
+    "full_text": "Que paja ser este chabon y que le des paja a casi todo el mundo"
+  },
+  {
+    "full_text": "@erix2604 @MastercardArg me acaban de atender, pero  1 hora y 10 min en espera! una locura"
+  },
+  {
+    "full_text": "@MastercardArg @erix2604 me contactan a mi tambien por favor? hace 2 horas estoy intentando resolver"
+  },
+  {
+    "full_text": "RT @Guarromantico_: Yo todo el día | Cuando tengo que dormir https://t.co/6m01Y8t4wW"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: https://t.co/Azyuvj2L42"
+  },
+  {
+    "full_text": "RT @thecinelost: https://t.co/2X8ddnDMXP"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: https://t.co/78eDORTmyu"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/FFDWbSLRms"
+  },
+  {
+    "full_text": "RT @TheCinesthetic: https://t.co/CSZZaCQh9f"
+  },
+  {
+    "full_text": "Literalmente harto"
+  },
+  {
+    "full_text": "RT @Guarromantico_: No se diga más. https://t.co/HyRK8VFxjp"
+  },
+  {
+    "full_text": "RT @film_craze: https://t.co/CVxnsbjVi3"
+  },
+  {
+    "full_text": "@arielsbdar 21352 ari gracias"
+  },
+  {
+    "full_text": "@arielsbdar Ari! Me das una mano? Hace 36 hs necesito operar con usd y esta bloqueado el retiro/compra de mi cuenta por un desbalance de saldos que quedó por un movimiento incompleto(luego de comprar fuera de horario el domingo) me quedó un saldo negativo\nYa mande a soporte pero nada aun"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/mg98aCsKky"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/Ip6bQZKEbI"
+  },
+  {
+    "full_text": "@DamianP_ @Fran_Casaretto_ Recoleta 500 lucas?\nSalí  de la pecera amiguito"
+  },
+  {
+    "full_text": "RT @barbie_context: https://t.co/iYFDv9KCRM"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/ScdnkvuUmA"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/nZvE25ASPP"
+  },
+  {
+    "full_text": "RT @Guarromantico_: La Netflix. https://t.co/R3HgYBZBgl"
+  },
+  {
+    "full_text": "RT @cxrrly: https://t.co/CBaxUfbeZi"
+  },
+  {
+    "full_text": "RT @barbie_context: https://t.co/3IgbNrG1Az"
+  },
+  {
+    "full_text": "RT @mememiniatura: https://t.co/yNEEXvXkxJ"
+  },
+  {
+    "full_text": "RT @Guarromantico_: No ejerzo. https://t.co/3tqM2XMdgO"
+  },
+  {
+    "full_text": "RT @nickleisterz: yo abriendo twitter por la mañana como si fuera un periódico https://t.co/rTsNVLPao8"
+  },
+  {
+    "full_text": "RT @Guarromantico_: Nada nada. https://t.co/lz8opx6unC"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/ayVk7tpUcK"
+  },
+  {
+    "full_text": "RT @barbie_context: https://t.co/KP7yqdaZDw"
+  },
+  {
+    "full_text": "Bue"
+  },
+  {
+    "full_text": "RT @fernandezpablo: @Conanbatt creo que es más digno asaltar jubilados"
+  },
+  {
+    "full_text": "Pero ey,  las risas no faltaron"
+  },
+  {
+    "full_text": "Debo estar en los días mas sensibles de mi vida, TAL VEZ"
+  },
+  {
+    "full_text": "RT @Tiempo_AMBA: #Amazonas 🔥💨\nIncendios enormes, del tamaño de ciudades como Montevideo o Buenos Aires, afectan al Amazonas y zonas de Boli…"
+  },
+  {
+    "full_text": "El mundo de las redes sociales refleja las emociones de una forma demasiado particular jajaja"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/YuXTPy3sq6"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/8SNLGMYkqd"
+  },
+  {
+    "full_text": "RT @KubrickPoint: https://t.co/8vmLyxN1zJ"
+  },
+  {
+    "full_text": "RT @Biofilica: Sí. https://t.co/iZVSIJ3Vzl"
+  },
+  {
+    "full_text": "Contento de la colocada a Alcaraz, así baja un poco"
+  },
+  {
+    "full_text": "Qué ganas de cartelear que tienen estos chupapijas"
+  },
+  {
+    "full_text": "RT @cxrrly: https://t.co/zq7bZwtTc7"
+  },
+  {
+    "full_text": "Dos horas"
+  },
+  {
+    "full_text": "Día emocionalmente no disponible\nEstado: super garchado de la cabeza"
+  },
+  {
+    "full_text": "🥰 https://t.co/00QRoC0nre"
+  },
+  {
+    "full_text": "RT @En_jupiter_: A veces esta bien ser el de azul. https://t.co/3ljoBCV0AW"
+  },
+  {
+    "full_text": "https://t.co/5A8g9o0lhi"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/Im8KXnxSht"
+  },
+  {
+    "full_text": "starless and bible black"
+  },
+  {
+    "full_text": "RT @Lauti_ese: https://t.co/YbSp10pkZd"
+  },
+  {
+    "full_text": "):"
+  },
+  {
+    "full_text": "RT @elcancillercom: [AHORA] En Tailandia, se sentó en el inodoro y una serpiente le mordió los testículos. 😱 https://t.co/ryUBySW7Jz"
+  },
+  {
+    "full_text": "Dejando de lado a @Matuferrerov CAPAZ entiende CAPAZ"
+  },
+  {
+    "full_text": "Dios si la gente entendiera tan solo la mitad de lo que subo ya estaría en el borda"
+  },
+  {
+    "full_text": "RT @URBANF33LINGS: https://t.co/qliX7tShb6"
+  },
+  {
+    "full_text": "RT @ZarMorfeoII: estoy cansado de este país de mierda integrado por boludo propulsados a energía atómica https://t.co/HGwipMXqDu"
+  },
+  {
+    "full_text": "RT @Gibboanxious: Alien (1979)\n\ndir. Ridley Scott https://t.co/nRug1pAg1d"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: \"I’m not afraid of death. I’m afraid of time.\" \n\nInterstellar (2014) dir. Christopher Nolan https://t.co/xiHSPkaoGy"
+  },
+  {
+    "full_text": "RT @allgrungerock: Oasis - Wonderwall https://t.co/bTEMCkA9Vk"
+  },
+  {
+    "full_text": "@Nameless_U76 @nacional_memes Las peores de hecho"
+  },
+  {
+    "full_text": "RT @TarantinoWorld: Pulp fiction (1994) https://t.co/H3TJtr0nis"
+  },
+  {
+    "full_text": "RT @KubrickPoint: A Clockwork Orange (1971) https://t.co/uQZrOpUA0I"
+  },
+  {
+    "full_text": "Cada uno en su lugar, reyes\nEs asiiiii"
+  },
+  {
+    "full_text": "RT @Conanbatt: Si te interesa trabajar con empresas en USA tenes que estar al 100% en skills técnicas, soft e inglés. Armamos esta guía con…"
+  },
+  {
+    "full_text": "RT @RealTimeRating: SE INCENDIA EL UNICENTER, EVACUAN A LAS PERSONAS  https://t.co/wamOJIVwpI"
+  },
+  {
+    "full_text": "Digamos. No tienen otro daddy issue que no sea seguir la corriente política que les hayan enseñado por repetición en la mesa del domingo. Y todo cierra ahi. El resto les chupa bien la pija ( doble vara)"
+  },
+  {
+    "full_text": "Los fanáticos políticos (de cualquier lado de la brecha) tienen en común que todos quieren imponer el pensamiento critico como se les canta el orto.\nAsí como también una limitación para analizar con otro tipo de cuestiones más complejas de la vida. Como que todo se termina ahí."
+  },
+  {
+    "full_text": "RT @patomolina: Ricardo Iorio recordándote que un día como hoy pasaba a la inmortalidad nuestro prócer máximo, el gran general don José de…"
+  },
+  {
+    "full_text": "No necesitaba ver ese reel"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: One of the best endings in cinema history https://t.co/Pnhwcz2xTr"
+  },
+  {
+    "full_text": "Increible"
+  },
+  {
+    "full_text": "Siento un nerviosismo indescriptible"
+  },
+  {
+    "full_text": "RT @nacional_memes: 🐶 https://t.co/YGvH440P0k"
+  },
+  {
+    "full_text": "RT @jimenagonik: paren por favor de decirle a todo “indie”"
+  },
+  {
+    "full_text": "RT @santisiri: absolutamente imperdonable esta grasada."
+  },
+  {
+    "full_text": "RT @quesemanitaeh: - Qué semanita, eh? \n- Diego, es martes https://t.co/ov3bgcIJeQ"
+  },
+  {
+    "full_text": "RT @retro_twt: Evangelion https://t.co/bcUmM3CLeI"
+  },
+  {
+    "full_text": "🫠🫠🫠🫠🫠🫠"
+  },
+  {
+    "full_text": "Un par de cruces más"
+  },
+  {
+    "full_text": "RT @escritosrame: https://t.co/haaGdJfcbu"
+  },
+  {
+    "full_text": "RT @KevinLan043: Les recuerdo que esta serie la pasaban como si nada por Fox Kids https://t.co/1ifncB4qoe"
+  },
+  {
+    "full_text": "RT @clarincom: 🗣\"YO ESTOY CONVENCIDA QUE EN EL CAMPO NO ESTÁ\" | La opinión de @paulabernini sobre el Caso Loan.  La cronista de TN pasó por…"
+  },
+  {
+    "full_text": "Qué mal me cae la gente que no entiende los simpsons"
+  },
+  {
+    "full_text": "Plan dental"
+  },
+  {
+    "full_text": "RT @nacional_memes: Todos en Twitter hoy https://t.co/qEM9QXrarq"
+  },
+  {
+    "full_text": "A ver con este tipo de pelotudos es mejor decir sí sí y listo. Moraleja de la semana"
+  },
+  {
+    "full_text": "@arielsbdar Gracias Ari . Fui ese🫠"
+  },
+  {
+    "full_text": "Ay dios que gedes que son tanto carrtelll"
+  },
+  {
+    "full_text": "ultimamente el 99% de las cosas que veo publicadas en redes me parecen pelotudeces. Incluyendo las mías obvio."
+  },
+  {
+    "full_text": "Todo lo que necesitas hacer es seguir a los gusanos!"
+  },
+  {
+    "full_text": "RT @UHN_Plus: 🇻🇪🗳️ | URGENTE\n\nERROR HISTÓRICO: Un trabajador chavista a cargo del conteo publicó una selfie desde el Centro de Cómputos, re…"
+  },
+  {
+    "full_text": "Completamente destruido hno"
+  },
+  {
+    "full_text": "RT @CinemaTweets1: Robert Downey Jr. is Returning to the MCU\n\nThis Time As Doctor Doom: https://t.co/Ry7BOPFxUq"
+  },
+  {
+    "full_text": "RT @TheCinesthetic: Alien (1979) dir. Ridley Scott https://t.co/y9xvfgDx76"
+  },
+  {
+    "full_text": "RT @bjs_alejo2: https://t.co/a3SgWDYHMK"
+  },
+  {
+    "full_text": "RT @MarianoOjeda_: Robert Downey Jr. volverá al MCU como Victor von Doom. KEEEEEEEEEEEEEEEE \n\nSe viene Avengers Doomsday \nhttps://t.co/LKal…"
+  },
+  {
+    "full_text": "RT @dosinaga2: Paquete a Buzios por menos de 400 usd. Regalado. El que va a la costa argentina es un boludo. https://t.co/Fvh3yT127q"
+  },
+  {
+    "full_text": "El nivel de pelotudes cósmica que promueve esto https://t.co/tAGCOWBau5"
+  },
+  {
+    "full_text": "RT @DamianCatanzaro: 1800% de humedad y tengo las sábanas y toallas secas. Este lavasecarropas debe haber sido la mejor inversión del año.…"
+  },
+  {
+    "full_text": "RT @arielsbdar: BOOM 💣 \n\nA partir de AHORA empezamos a abrir depósitos USD desde el exterior! Se va a poder depositar dólares para pasar a…"
+  },
+  {
+    "full_text": "RT @EsTendenciaEnX: “Batería de litio”:\nPorque se prendió fuego sola y murió calcinado en un ascensor  https://t.co/EgUuKVvvDy"
+  },
+  {
+    "full_text": "RT @porqueTTarg: “Bondi”\n\nPorque un hombre se colgó desnudo de un colectivo y viajó sin pagar. https://t.co/34wH4WRM2I"
+  },
+  {
+    "full_text": "Jaja ay pero que idiota"
+  },
+  {
+    "full_text": "RT @porqueTTarg: “GTA”\n\nPorque una lancha pirata intentó abordar un barco de contenedores y los trabajadores sacaron dos ametralladoras e h…"
+  },
+  {
+    "full_text": "RT @eraserena: Desconfío de la gente que tiene muchos amigos. \n\nSaluden con cautela, ese título no es para cualquiera."
+  },
+  {
+    "full_text": "RT @porqueTTarg: “Play 5”\n\nPor la alegría de este chico al comprar la PlayStation 5. https://t.co/5DfWtePbh2"
+  },
+  {
+    "full_text": "RT @TheCinesthetic: Taxi Driver (1976) dir. Martin Scorsese https://t.co/sUXBqRzgCw"
+  },
+  {
+    "full_text": "in between the dark of hell on earth"
+  },
+  {
+    "full_text": "A laburar gentes"
+  },
+  {
+    "full_text": "RT @porqueTTarg: “Wimbledon”\n\nPorque l a Princesa de Gales se mostró públicamente tras varios meses de estar ausente desde que se le diagno…"
+  },
+  {
+    "full_text": "Como vas a levantar triple matchpoint enfermo"
+  },
+  {
+    "full_text": "que mierda pasó con Stremio hijos de mil puta"
+  },
+  {
+    "full_text": "RT @porqueTTarg: “Curvita”\n\nPor este hombre que se despierta a las 6 AM a grabar motos cayéndose en una curva peligrosa. https://t.co/b9txS…"
+  },
+  {
+    "full_text": "RT @fernandezpablo: No se puede salir a comer afuera, está todo repleto de pedros rosenblats e hijas de moldavsky gastando la guita que no…"
+  },
+  {
+    "full_text": "RT @fernandezpablo: no entiendo este entusiasmo por las boludeces militares y/o patrióticas"
+  },
+  {
+    "full_text": "RT @retropolisart: https://t.co/D2MUoMKRIq"
+  },
+  {
+    "full_text": "RT @dexresyon: Vito Corleone - The Godfather II https://t.co/CXxt9arVoQ"
+  },
+  {
+    "full_text": "RT @projectionistw: 'Taxi Driver' (1976) Martin Scorsese. https://t.co/uXmmguL2QN"
+  },
+  {
+    "full_text": "A ver lo gracioso es que si no decís nada o no te quejas en voz alta la gente piensa que estas sobrado o en un cumple \nNo Carlos no es asi"
+  },
+  {
+    "full_text": "Pero bueno loko fingimos que ta todo bien y seguimos"
+  },
+  {
+    "full_text": "La cantidad de horas irreales que estoy pasando frente a la computadora diariamente los últimos 10 meses se están haciendo cada vez más cuesta arriba"
+  },
+  {
+    "full_text": "RT @BatmanNotes: The Dark Knight 🃏\nHeath Ledger as The Joker\nArtwork by Oliver Barrett https://t.co/s22uH0Rh8r"
+  },
+  {
+    "full_text": "@porqueTTarg @pikaso_me screenshot this"
+  },
+  {
+    "full_text": "@porqueTTarg @pikaso_me screenshot this"
+  },
+  {
+    "full_text": "RT @arielsbdar: Es muy probable que todo salga bien."
+  },
+  {
+    "full_text": "@arielsbdar Ari! Me das una mano porfa?\nTengo una extracción en usd con el saldo descontado y pendiente hace 36 hs\nya hable con soporte pero hoy no respondieron ya luego del medio dia\n\nGraciass en caso de que se pueda revisar \n\nCuenta 21352"
+  },
+  {
+    "full_text": "Leni qué"
+  },
+  {
+    "full_text": "RT @MentalidadFeroz: Estoico https://t.co/FCFCFqvBqp"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: The Dark Knight (2008) https://t.co/FnecTAXKGF"
+  },
+  {
+    "full_text": "RT @TheCinesthetic: https://t.co/kR872r1nzm"
+  },
+  {
+    "full_text": "RT @pedestrian: https://t.co/vYRXPNHFcJ"
+  },
+  {
+    "full_text": "RT @CinemaTweets1: “If you make yourself more than just a man, if you devote yourself to an ideal…” https://t.co/PPsOfxmZm6"
+  },
+  {
+    "full_text": "RT @TheBatPics: https://t.co/4OB7OE0HPB"
+  },
+  {
+    "full_text": "RT @KubrickPoint: https://t.co/XItGQylbMK"
+  },
+  {
+    "full_text": "RT @CinemaTweets1: “Say goodnight to the Bad Guy…” https://t.co/I6pq7gvAtE"
+  },
+  {
+    "full_text": "RT @CinemaScene404: Goodfellas, 1990 https://t.co/anDVGZI8N6"
+  },
+  {
+    "full_text": "RT @CinemaTweets1: Cinema is Forever https://t.co/fbFpuLQVww"
+  },
+  {
+    "full_text": "La gente te va a dejar siempre sus prioridades muy claras.\nNo por dichos sino mediante actos."
+  },
+  {
+    "full_text": "RT @todonoticias: ⭕ CHOQUE FATAL EN EL CAMINO DEL BUEN AYRE: un auto embistió a un motociclista y lo mató \n\nhttps://t.co/2JLP7R4gg0 https:/…"
+  },
+  {
+    "full_text": "RT @saul_meowman: Mirá si no voy a vender la casa para ir a verlo a este animal https://t.co/ApVmEAJK5a"
+  },
+  {
+    "full_text": "RT @DannyDrinksWine: A Clockwork Orange (1971) \nDirector: Stanley Kubrick https://t.co/DKQHnMbAMG"
+  },
+  {
+    "full_text": "Nada mas falso que los que quieren estar bien con dios y con el diablo."
+  },
+  {
+    "full_text": "Un respiro te pido señor juez"
+  },
+  {
+    "full_text": "RT @En_jupiter_: https://t.co/SPQPNLnFFZ"
+  },
+  {
+    "full_text": "RT @notafaso: Cheto el sábado https://t.co/cQFWQIxkLX"
+  },
+  {
+    "full_text": "RT @pbarbieri: Creo que esta condena ayudará a Trump."
+  },
+  {
+    "full_text": "RT @arielsbdar: 🔴 ATENTOS: FUERTE REACCIÓN DE BONOS ARGENTINOS POR DICTAMEN DE AYER. SUBEN HASTA 2% ESTA MAÑANA EN LOS PRIMEROS TRADES DE…"
+  },
+  {
+    "full_text": "RT @porqueTTarg: “Iorio”\n\nPorque la hija de Iorio estalló contra los Premios Gardel por no haber homenajeado a su papá: \"Dejaron ver la lac…"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Harry Potter\":\n\nPor este \"detras de escena\" de la primera película de Harry Potter.\n\nhttps://t.co/qVt8oFpJk9"
+  },
+  {
+    "full_text": "@arielsbdar @cocoscap \n comisiones? \nNi idea, no me ubico. https://t.co/7vb9rml4JU"
+  },
+  {
+    "full_text": "RT @santisiri: el tango 01 parte el lunes rumbo a silicon valley. reuniones confirmadas con tim cook, sam altman y mark zuckerberg. \n\nmis m…"
+  },
+  {
+    "full_text": "Qué pasará mañana"
+  },
+  {
+    "full_text": "RT @MundoKame: #DragonBall 🔥\nDisfruten de la noche 🤪💥 https://t.co/EuBpi8hZ3K"
+  },
+  {
+    "full_text": "después de la jornada de ayer, la de hoy requiere un alto porcentaje de banalidad cero introspectiva. Puede ser administrada facilmente por Ramones y un poco de sol"
+  },
+  {
+    "full_text": "RT @maricelcintya: Misión Apolo 11 🌔🚀\nRevelado analógico de +40 años. https://t.co/4AFTLUyzQ9"
+  },
+  {
+    "full_text": "Estos cornudos doble vara me tienen las bolas por el piso"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"TikTok\": \n\nPorque Francia prohibió TikTok en Nueva Caledonia tras disturbios mortales, y ha declarado el estado de emerge…"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Bullying\": \n\nPorque un niño de 10 años en Indiana se suicidó después de haber sido acosado en la escuela, según su famili…"
+  },
+  {
+    "full_text": "RT @gladiadormerval: NO CONVALIDEN MERCADOS ILEGALES\n\nDOLAR MEP 1050\n\nSALUDOS GLADIADOR https://t.co/aaNTQxfK7M"
+  },
+  {
+    "full_text": "@arielsbdar Estoy queriendo desde ayer subscribirme a COCORMA pero da “error inesperado” 😖😖🫠🫠"
+  },
+  {
+    "full_text": "RT @Matuferrerov: manifestando uk 2025"
+  },
+  {
+    "full_text": "Teardown"
+  },
+  {
+    "full_text": "@lautidev_ Todo lo que es cedears está atado al USD ccl! Enjoy"
+  },
+  {
+    "full_text": "Droga https://t.co/kciROspkHS"
+  },
+  {
+    "full_text": "RT @DamianCatanzaro: Me vuelvo loco"
+  },
+  {
+    "full_text": "@gladiadormerval sigo comprado papaaaaaaa"
+  },
+  {
+    "full_text": "RT @KamikaceMerval: El \"nene cheto\" en estos momentos @arielsbdar https://t.co/HIcXdWqlxN"
+  },
+  {
+    "full_text": "@arielsbdar @cocoscap @arielsbdar @cocoscap  consulta! que pasa si vendo $byma , con este tema del 5:1 ? solo venderia lo que tengo actualmente en cartera o contemplaria el volumen de acciones  que faltan acreditarse para corregir el 5.1"
+  },
+  {
+    "full_text": "RT @fernandezpablo: Increíble si los genios de twitter decían que se acababa la programación"
+  },
+  {
+    "full_text": "RT @fernandezpablo: @facundocajen no entendiste la discusión y probablemente tampoco entiendas qué muestra el gráfico que usás de argumento"
+  },
+  {
+    "full_text": "RT @DamianCatanzaro: TODO código, test o cualquier cosa que haga la AI se lee, revisa y prueba antes de subir a producción si estás en un p…"
+  },
+  {
+    "full_text": "RT @jack: we're making @blocks smaller today. here's my note to the company.\n\n####\n\ntoday we're making one of the hardest decisions in the…"
+  },
+  {
+    "full_text": "RT @gptcrosa: Tengo que escribir acerca de lo que veo con esto de la AI y los programadores porque creo que se pierde en los tuits."
+  },
+  {
+    "full_text": "RT @tim_cook: Steve was an incredible leader, innovator, and friend whose world-changing ideas moved all of us forward.\n\nCelebrating his re…"
+  },
+  {
+    "full_text": "RT @ericbahn: Silicon Valley needs to be revived, @HBO"
+  },
+  {
+    "full_text": "RT @gptcrosa: sé como Guillermo\n&gt; nace en Lanús\n&gt; prompteate a vos mismo en un .md\n&gt; arma un deca-unicornio"
+  },
+  {
+    "full_text": "RT @maricelcintya: A esta altura esta serie es un documental 🤣\nNecesito verla por vez número 3. Es genial."
+  },
+  {
+    "full_text": "RT @zivdotcat: POV: Amazon’s AI coding assistant just recreated the Son of Anton moment from Silicon Valley show https://t.co/WOdCiHG3V1"
+  },
+  {
+    "full_text": "RT @zivdotcat: pov: your vibecoder friend demoing what he built using his $200 claude code max plan https://t.co/cevQHx8y5J"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Christian Bale\"\n\nPorque perdió 28 kilos, quedando en 55, para El Maquinista: su dieta era de una lata de atún y una manza…"
+  },
+  {
+    "full_text": "RT @pbarbieri: Nada que valga la pena es fácil de lograr."
+  },
+  {
+    "full_text": "RT @arielsbdar: Nadie que sea crack haciendo plata necesita VENDERTE un curso de como hacer plata."
+  },
+  {
+    "full_text": "@cancu_eth @DamianCatanzaro de los pocos que opina con objetividad"
+  },
+  {
+    "full_text": "RT @24conurbano: #Hurlingham “SOS CIEGO, NO VISTE QUE ME CHOCASTE”: INSULTOS Y FUERTE DISCUSIÓN ENTRE DOS AUTOMOVILISTAS POR UN ACCIDENTE Q…"
+  },
+  {
+    "full_text": "... https://t.co/XDV7L8pQv1"
+  },
+  {
+    "full_text": "RT @todonoticias: Una mujer se fue a trabajar y cuando volvió a su departamento de Villa Devoto encontró una tragedia: sus dos hijos, de 2…"
+  },
+  {
+    "full_text": "@DjokerNole @carlosalcaraz @AustralianOpen Thank you for everything, Nole"
+  },
+  {
+    "full_text": "RT @jmgmoron: Quiero dedicarle algo a Novak.\n\nEn este torneo, ha callado muchas bocas. 2025 puede que no fuese su mejor año en cuanto a tít…"
+  },
+  {
+    "full_text": "@arielsbdar @cocoscap gracias por la data Ari!, nos mandan un mail desde cocos con esto de manera oficial? mas que nada para tener un parametro para cuando recuperemos el volumen $"
+  },
+  {
+    "full_text": "RT @porqueTTarg: “Space Jam”\n\nPorque un grupo de exposición de pedofilia atrapó al productor y escritor de la serie “Space Jam”, Herschel W…"
+  },
+  {
+    "full_text": "RT @messedupfoods: making the worlds strongest cup of coffee\n\n📸 via a1exzapata https://t.co/HCSfuo8sYb"
+  },
+  {
+    "full_text": "bueno bueno a ver si mañana Argentina se paga la compra de carrefour de mes"
+  },
+  {
+    "full_text": "RT @arielsbdar: No puede ser, voy a llorar!"
+  },
+  {
+    "full_text": "RT @arielsbdar: Y SI SALE TODO BIEN PELOTUDOS?"
+  },
+  {
+    "full_text": "RT @arielsbdar: #AL30 SUBE 20% EN EUROPA CONTINENTAL!"
+  },
+  {
+    "full_text": "RT @LucasNLeonardi: Tenia que ser asi, somos el agua y el aceite"
+  },
+  {
+    "full_text": "RT @arielsbdar: @FergKilpatrick @cocoscap Invierto en tecnología no en carteles"
+  },
+  {
+    "full_text": "RT @pbarbieri: Looking forward @QatarEconForum!"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Vivaldi\": \n\nPor este hombre que toca el violín en el subte y se volvió viral en las redes sociales.\n\nhttps://t.co/fpPK842…"
+  },
+  {
+    "full_text": "RT @gladiadormerval: Estoy indignado con el nivel de los precios en este país.\n\nUna pinta en Buenos Aires no puede valer lo mismo que en Lo…"
+  },
+  {
+    "full_text": "La guita que gasté en 5 minutos comprando DOS vinilos jjjjjjkkjksjsjaj dios"
+  },
+  {
+    "full_text": "AND I WONDER WHEN I SING ALONG QITH YOUUU"
+  },
+  {
+    "full_text": "CALM DOWN AND WASTE AWAY WITH ME"
+  },
+  {
+    "full_text": "TOONIGJTIVE BROKE MYSELF INTWO"
+  },
+  {
+    "full_text": "RT @porqueTTarg: “TN”\n\nPorque acaban de protagonizar el momento televisivo más bizarro del 2024. https://t.co/DyJJzw8g64"
+  },
+  {
+    "full_text": "RT @dosinaga2: Mira que nuestro presidente es economista. Pero como carajo sube esto? Como vas a medir en dólares cuando la infla esta corr…"
+  },
+  {
+    "full_text": "RT @dosinaga2: El amigo @barretojorgeG hizo la tarea para nosotros. https://t.co/MRrEGPe9Om"
+  },
+  {
+    "full_text": "RT @ElTrumpista: JAJAJAJAJAJAJAJAJAJAJA.\n\nLA MINA IBA HACER NEGOCIOS A LA MARCHA.\n\nDJASFDSFJSDFAJFDASJM NO LO PUEDO CREER. https://t.co/NuT…"
+  },
+  {
+    "full_text": "RT @dosinaga2: @PregoneroL Para mi esta era evitable. Tuviste 4 meses para pactar."
+  },
+  {
+    "full_text": "RT @dosinaga2: 1er error \"grave\" del gobierno a mi parecer, la marcha fue un éxito, se agruparon todos y muchos neutrales también indignado…"
+  },
+  {
+    "full_text": "RT @dosinaga2: @BullvsBearTrade Conozco mucho anti peronistas posteando a favor de la.marcha."
+  },
+  {
+    "full_text": "RT @dosinaga2: 150M verdes es el presupuesto de la UBA, medio día de compras del BCRA.\n\nHay que ser mas inteligente y saber dónde no tenes…"
+  },
+  {
+    "full_text": "RT @pbarbieri: Cuál es el argumento en contra de cobrarle a los extranjeros aranceles universitarios? Al menos a los no residentes que no t…"
+  },
+  {
+    "full_text": "en la guerra el único que gana es el que vende las balas queridos amigos"
+  },
+  {
+    "full_text": "RT @santisiri: kirchnerismo o mileismo son idénticos en cuanto a los modales. autoritarismos de diferente color y culto al líder."
+  },
+  {
+    "full_text": "Aparentemente caídas las transferencias desde UALA @pbarbieri \nProbé tanto a Galicia como a Cocos."
+  },
+  {
+    "full_text": "RT @dosinaga2: Meli, si Cocos no llega a Pyme, que sos vos que no llegas a la uña del dedo chico del pie izquierdo de lo que es Ari?"
+  },
+  {
+    "full_text": "RT @MiltonFriedom5: 5 meses. A ver si empiezan a sacarle los celulares a estos marrones en las cárceles. Viven mejor que en sus ranchos de…"
+  },
+  {
+    "full_text": "RT @gladiadormerval: Gladiador no olvida sus raíces.\n\nCon la UBA no\n\nSaludos Gladiador https://t.co/IsXY7WJSdE"
+  },
+  {
+    "full_text": "No lo banco a JM pero hablar desde una postura tan fanática/hater sobre un generador de valor como Elon Musk ya roza la pelotudez crónica https://t.co/3CPXmF0rM9"
+  },
+  {
+    "full_text": "RT @gladiadormerval: Si no te entusiasma tu futuro, es porque estás en el presente equivocado.\n\nPensalo\n\nSaludos Normal"
+  },
+  {
+    "full_text": "que tipazo @pbarbieri , productazo se armó. Admirable https://t.co/7vXufdyQuP"
+  },
+  {
+    "full_text": "🤛🏻🤛🏻🤛🏻 https://t.co/5uG7TxTSAy"
+  },
+  {
+    "full_text": "RT @jakubgarfield: React Digest is a free carefully curated weekly newsletter for React developers to become better front-end engineers."
+  },
+  {
+    "full_text": "RT @ToIkienverse: Actualmente somos la cuenta más grande de habla hispana de El Señor de los Anillos en Twitter con más de 127,000 seguidor…"
+  },
+  {
+    "full_text": "RT @santisiri: el peronismo corre riesgo de volverse el radicalismo si no sabe encontrar un liderazgo fresco."
+  },
+  {
+    "full_text": "Qué locura Queen"
+  },
+  {
+    "full_text": "Pd amo viajar pero repito no va por ahi el enunciado que propongo"
+  },
+  {
+    "full_text": "Me parece insoportable que la gente tenga constante necesidad de publicar con nostalgia sobre sus vacaciones. \nQué sé yo , para mi pasa por otro lado el disfrute, pasa mas por lo cotidiano e incorporado a tu identidad. Ni idea."
+  },
+  {
+    "full_text": "🤦🏻‍♂️"
+  },
+  {
+    "full_text": "Hay gente que no? https://t.co/NidFIDJf1I"
+  },
+  {
+    "full_text": "@arielsbdar Ari en breve te llega el mensaje con todo. GRACIAS!"
+  },
+  {
+    "full_text": "La garchada que nos está pegando el mercado esta semana 🥵"
+  },
+  {
+    "full_text": "RT @jpsanzi: No te gusta el Capitán Del Espacio. Te gusta la construcción social e ideológica que conlleva decir que te gusta el Capitan De…"
+  },
+  {
+    "full_text": "RT @dosinaga2: Lo que se viene el miércoles que viene! 🔥🔥\n\nVamos a charlar un poquito de que está pasando en el país con @CarlosMaslaton y…"
+  },
+  {
+    "full_text": "RT @santisiri: debemos transformar vaca muerta en una ciudad de data centers para inteligencia artificial."
+  },
+  {
+    "full_text": "@JohnGalt_is_www @santivicentela"
+  },
+  {
+    "full_text": "RT @AgustinaLocke: Todos están en Japón menos yo"
+  },
+  {
+    "full_text": "RT @JohnGalt_is_www: Algo q parece obvio pero suele pasar inadvertido:\n\nLa \"r\" que es la tasa de rendimiento está multiplicando al capital…"
+  },
+  {
+    "full_text": "RT @CarlosMaslaton: 1974 - 29 de marzo - 2024. El 50 Aniversario del lanzamiento de Starless and Bible Black de King Crimson, uno de los me…"
+  },
+  {
+    "full_text": "Lo que se labura en software factory tanto fijo como freelance no tiene sentido"
+  },
+  {
+    "full_text": "RT @powerhdeleon: ¿Por qué Debes Aprender Arquitectura de Software?\n\nhttps://t.co/r66yPzo18a https://t.co/YY1oetfYiW"
+  },
+  {
+    "full_text": "RT @pbarbieri: Vamos! https://t.co/ayttDIiuMF"
+  },
+  {
+    "full_text": "RT @TourCinefilo: Quentin Tarantino casi abandona ‘Inglourious Basterds’ (2009) al no encontrar a alguien que interpretara a Hans Landa, te…"
+  },
+  {
+    "full_text": "Y un crack con su producto🚀😎 https://t.co/hNMMyUesWv"
+  },
+  {
+    "full_text": "Después nos preguntamos por qué motivo el rubro esta saturado https://t.co/MbySvJy4bQ"
+  },
+  {
+    "full_text": "RT @PabloSabbatella: 🚨El newsletter de Decrypt Media fue comprometido y se envió un email a todos sus suscriptores promocionando un flaso a…"
+  },
+  {
+    "full_text": "RT @MauroFdz: Busca la última imagen de tu galería y esa es la propuesta de nuevo nombre para el CCK.\n\nYo: Centro Cultural Mandalorian http…"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Joe Biden\":\n\nPor las palabras del presidente de Estados Unidos a una niña: \"eres una niña sexy, no le digas a mamá que te…"
+  },
+  {
+    "full_text": "RT @VarskySports: Así fue la reacción de Faustino Oro al ganarle una partida de ajedrez a Magnus Carlsen, el N°1 del ranking y campeón del…"
+  },
+  {
+    "full_text": "RT @santisiri: empezó jugando en la pandemia por consejo de los padres para que pudiera entretenerse."
+  },
+  {
+    "full_text": "hay mucho mas que el inicio de tu feed. https://t.co/tdEnIsj9T8"
+  },
+  {
+    "full_text": "RT @chesscom: The 10-year-old \"Golden Boy\" Faustino Oro beat Magnus Carlsen yesterday in a bullet game!\n\nMessi of chess 🏆🇦🇷 https://t.co/eV…"
+  },
+  {
+    "full_text": "RT @gladiadormerval: $0 Pesos en el Banco\n\nDebo pesos a mí broker.\n\nNo me pidan más Plata \n\nSaludos Gladiador"
+  },
+  {
+    "full_text": "RT @AguSerrate: @arielsbdar El Havanna MdP con sal está sobrevalorado. Entre cinco a siete escalones por debajo del Jorgelin triple blanco.…"
+  },
+  {
+    "full_text": "Esto a la 8 veces https://t.co/WIAuMDu199"
+  },
+  {
+    "full_text": "RT @labandainvierno: POR FIN!"
+  },
+  {
+    "full_text": "Gracias otoño  🍂 \nTe fuiste verano de verga"
+  },
+  {
+    "full_text": "@arielsbdar @difemac No me dejes afuera arii\n21352!  Necesito sin comisionesss"
+  },
+  {
+    "full_text": "Las redes sociales se dividen en dos grandes grupos. L@s que les gusta mostrar que están mas al pedo que bocina de avión, y l@s normales."
+  },
+  {
+    "full_text": "RT @santisiri: que te asuste el hombre común. ese es el verdadero monstruo de la sociedad."
+  },
+  {
+    "full_text": "hay gente que se convierte de a poco en un meme jaja"
+  },
+  {
+    "full_text": "Hay gente que verdaderamente me sorprende (para mal) la capacidad de análisis de situación que muestra.\nDigamos, no se ponen en contexto de nada, y después de la boca para afuera te dan a entender que quieren pertenecer a otro grupo de opinion. \nMaravilloso"
+  },
+  {
+    "full_text": "RT @santisiri: qué lindo día en buenos aires."
+  },
+  {
+    "full_text": "@LisandroNicoli1 @santisiri internet es servicio\nhttps://t.co/ZtUiJveGLA"
+  },
+  {
+    "full_text": "RT @santisiri: #bitcoin en all time high al mismo tiempo que cae instagram. síntoma de los tiempos que vivimos: la decentralización prevale…"
+  },
+  {
+    "full_text": "RT @sserrano44: Long Bitcoin"
+  },
+  {
+    "full_text": "🚀🦇🔊"
+  },
+  {
+    "full_text": "RT @santisiri: @gmicele la casta son los que gobiernan, siempre."
+  },
+  {
+    "full_text": "RT @MoureDev: ¿No sabes por DÓNDE EMPEZAR para APRENDER PROGRAMACIÓN? Frontend, Backend, DevOps, Android, DBA, Blockchain, React, Angular,…"
+  },
+  {
+    "full_text": "@Fenomena Enviado!"
+  },
+  {
+    "full_text": "RT @FinanzasArgy: 🚨🇦🇷Salarios por el piso: un empleado promedio destina más del 50% del sueldo sólo para ir a trabajar, según análisis del…"
+  },
+  {
+    "full_text": "RT @abruzuc: i’m very excited to start the week again just because i personally hate weekends where i feel like it’s my time off but i don’…"
+  },
+  {
+    "full_text": "RT @dosinaga2: -40% jubilaciones.\n-30% salarios\n+25% intereses\n\nDigamos todo. El excel muy bonito, pero la calle te va a explotar."
+  },
+  {
+    "full_text": "RT @eudtoxic: Una persona sola: 1500 USD en 🇦🇷\n\nMe van a venir a atacar ahora, como siempre. Pero si no llegas a fin de mes, no podes ahorr…"
+  },
+  {
+    "full_text": "RT @maripydev: Aprender a programar no es difícil.. \n\nLo difícil es programar 🙃😆"
+  },
+  {
+    "full_text": "Increible todo lo que se está dando.\nEl resto en 🔇"
+  },
+  {
+    "full_text": "RT @mrhatogo: @AgustinaLocke Una de Spielberg. https://t.co/bqpqjyyUni"
+  },
+  {
+    "full_text": "Defenders of the faith &gt; cualquier cosa que te haya dicho tu vieja"
+  },
+  {
+    "full_text": "Cuanto cringe"
+  },
+  {
+    "full_text": "RT @Conanbatt: Como hace la gente para recibir paquetes de mercadolibre? Literlamente imposible saber cuando vienen. Necesitas un empleado…"
+  },
+  {
+    "full_text": "RT @invis4yo: there is two types of people https://t.co/ok72RcGek4"
+  },
+  {
+    "full_text": "Como me molesta la gente que me hace perder el tiempo. Si vas a seguir en la tuya no me rompas las bolas"
+  },
+  {
+    "full_text": "RT @PabloAgustinTol: A veces siento que no debería ser tan bueno. Me hacen renegar mucho y no merezco"
+  },
+  {
+    "full_text": "RT @LosadaMelina: 🫶Mañana se lanza el webinar con Alejandro ex Microsoft, en silicon Valley. La publi es x linkedin.\nDirigido a Desarrollad…"
+  },
+  {
+    "full_text": "RT @elcancillercom: [AHORA] La policía de la India liberó a una paloma que estuvo ocho meses detenida, acusada de ser una espía del gobiern…"
+  },
+  {
+    "full_text": "RT @Hispanico9691: @dosinaga2 https://t.co/7CLQtrqzlB"
+  },
+  {
+    "full_text": "RT @dosinaga2: Repito el excel muy bonito pero esto se va a espiralizar, cierre de negocios, gente en la calle, quilombo, etc. Tienen que r…"
+  },
+  {
+    "full_text": "RT @https_memi: #RecruitersIT !!! \n\nEsta python dev con 9 (NUEVE) años de experiencia está disponible. ¿Por qué no le están lloviendo propu…"
+  },
+  {
+    "full_text": "@evelynzambrana Una simple metafora para indicar que el hombre hace su propia tumba"
+  },
+  {
+    "full_text": "@evelynzambrana la teoria cuantica se retuerce"
+  },
+  {
+    "full_text": "lpm. https://t.co/B4vu45h2GY"
+  },
+  {
+    "full_text": "RT @IorioQuotes: Un adelantado Ricardo siempre #Iorio https://t.co/yw3o88cu57"
+  },
+  {
+    "full_text": "100% https://t.co/wjOmFFj3vw"
+  },
+  {
+    "full_text": "RT @bjs_alejo2: mi amigo y yo contando literalmente la misma anécdota cada vez que nos vemos: https://t.co/JAzx6hfZaw"
+  },
+  {
+    "full_text": "@bjs_alejo2 @Gaby_Cardozoo @LucasNLeonardi"
+  },
+  {
+    "full_text": "@evelynzambrana Se anima a citarlo"
+  },
+  {
+    "full_text": "RT @KevinTurco: Crudo y cierto. Sólo hay que ver a quiénes te valoran por lo que sos y quién se preocupa por vos. El resto es cotillón..."
+  },
+  {
+    "full_text": "Justiticar lo injustificable, dónde más lo habré visto https://t.co/5DLRGXiYAU"
+  },
+  {
+    "full_text": "RT @imaaguus: Busco un phyton dev (+2 años de experiencia)\n\nExperiencia con phyton + django\n🇺🇸 Inglés avanzado\n👨🏽‍💻 Remoto\n💵 USD\n\nCV a agus…"
+  },
+  {
+    "full_text": "@LucasNLeonardi Siempre hermano😎"
+  },
+  {
+    "full_text": "Inviable. Si saca esta ley al mes de gobernar es porque quiere que lo rajen. https://t.co/fAiBamU93G"
+  },
+  {
+    "full_text": "qué sensación rara renunciar a un laburo"
+  },
+  {
+    "full_text": "Que calor de mierrrr"
+  },
+  {
+    "full_text": "Necesito a alguien ultra frontal en mi vida"
+  },
+  {
+    "full_text": "Me quiero morir https://t.co/rycUosfvOG"
+  },
+  {
+    "full_text": "Buen díaaa"
+  },
+  {
+    "full_text": "@evelynzambrana Apreta mute"
+  },
+  {
+    "full_text": "Qué forma de empezar el 2024🥳🥳🥳\nDefinitivamente rodearte de gente que este en la misma que vos y se den alegrias mutuas es impagable"
+  },
+  {
+    "full_text": "Qué gente rara"
+  },
+  {
+    "full_text": "RT @ornetoledoIT: Recien vamos 8 días de enero? esto va a estar heavy"
+  },
+  {
+    "full_text": "@evelynzambrana Imaginate si mide 2.30 y pesa 90"
+  },
+  {
+    "full_text": "@evelynzambrana Ambiguo"
+  },
+  {
+    "full_text": "El cringe que me dio ver ese reel hermano"
+  },
+  {
+    "full_text": "RT @evelynzambrana: Viejo si no te responden no podés seguir mandando mensajes uno atrás de otro"
+  },
+  {
+    "full_text": "una bala dolía menos que ver eso escuchando pearl jam"
+  },
+  {
+    "full_text": "Denle bola que sabe https://t.co/r2fawWP4gQ"
+  },
+  {
+    "full_text": "RT @imaaguus: También quiero recordarles que hago asesorías de CV y LinkedIn para el que lo necesite!"
+  },
+  {
+    "full_text": "RT @aprenastrologia: Mereces que te quieran sin puertas, sin llaves, sin límites. \nVenus está en #sagitario"
+  },
+  {
+    "full_text": "Excelente servicio Pergolini con Armas Gemelas en vtx"
+  },
+  {
+    "full_text": "RT @KevinTurco: El insomnio siempre nos trae reflexiones acertadas, preguntas curiosas y respuestas que nos dejan pensando, revoloteando...…"
+  },
+  {
+    "full_text": "Xq sale todo mallll"
+  },
+  {
+    "full_text": "RT @imaaguus: Hoy va un friendly reminder de las vacantes que tengo activas💥\nTodas posiciones remotas y pago en USD🤑\n\nAbro hilo👇\n\nSi dan #R…"
+  },
+  {
+    "full_text": "Poco más de 10 meses para Maiden latam 2024"
+  },
+  {
+    "full_text": "La eterna espera"
+  },
+  {
+    "full_text": "RT @elcapitance: Tengo que dar de baja el servicio en una propiedad y no recibo respuesta por WhatsApp @ProsegurAR.\nPueden mandarme un mens…"
+  },
+  {
+    "full_text": "RT @luismejiadev: Si sientes soledad,\nno es porque estés solo, \n\npuedes estar acompañado y sentir soledad o puedes estar solo y no sentirla…"
+  },
+  {
+    "full_text": "Hoy se codio hard"
+  },
+  {
+    "full_text": "Gracias Fran @fraruizl por hacer todo más fácil (? https://t.co/KTW0wznhvP"
+  },
+  {
+    "full_text": "Jajaj que pedazos de cornudos"
+  },
+  {
+    "full_text": "Cuanto rockk les fallltaaaaa"
+  },
+  {
+    "full_text": "BIG JACK"
+  },
+  {
+    "full_text": "RT @ImagenRetro: Ya se antoja maratón de películas navideñas. 🎄☃️🍿🎬 https://t.co/ifDaBpLALQ"
+  },
+  {
+    "full_text": "Jajjjjj https://t.co/sX8GLbSyYZ"
+  },
+  {
+    "full_text": "@imaaguus 🫠"
+  },
+  {
+    "full_text": "Gente que no suma para nadaaaa\nOut"
+  },
+  {
+    "full_text": "@evelynzambrana I didnt sayit"
+  },
+  {
+    "full_text": "Por algo lo quiero tanto a este culiao https://t.co/Dyh8ZiPTJ4"
+  },
+  {
+    "full_text": "RT @PabloAgustinTol: Es impresionante como la gente NO QUIERE trabajar. 8mil excusas para levantarse más temprano o creyendo que quien tien…"
+  },
+  {
+    "full_text": "RT @imaaguus: Desde q tenía 2 años madrugué SIEMPRE. 6/7 am arriba todos los dias. Ahora, NO PIENSO LEVANTARME NUNCA MÁS TEMPRANO EN MI FUC…"
+  },
+  {
+    "full_text": "RT @EzeChilo: Para eso trabajo: pide un uber"
+  },
+  {
+    "full_text": "@Valenlr_ puede"
+  },
+  {
+    "full_text": "@ElRinconDeLele_ @Pogopedia Sos un pelotudo.\nCon respeto."
+  },
+  {
+    "full_text": "Por suerte en este tiempo tengo a la gente correcta que me acompaña (así como también gente nueva ) , que me da lo que me puede dar, y eso está muy bien más allá de que uno al veces se olvide. Muy agradecido por esto. Valoremos todo un poco más, y lo que no va, a la mierda."
+  },
+  {
+    "full_text": "Sino todo lo que tenían hasta ahora en mapa en base a lo que creen que fue su vida, su concepcion de ideas, de familia, de grupos . Todo se puede ir al carajo en segundos. Valoren ... y tampoco se dejen hundir a pesar de estas apariciones. \n[Sigue]"
+  },
+  {
+    "full_text": "Estoy pasando posiblemente el mes mas oscuro de mi vida hasta el momento... lo que no quita lo positivo que fue mi año hasta aca. Simplemente para recordarles que todo puede cambiar de un momento a otro, no solo un on track de cómo va su año,\n[Sigue]"
+  },
+  {
+    "full_text": "RT @imaaguus: #hiring lider fullstack (Net Core + React)\n\nINGLÉS NO NECESARIO🙌🏻\n\n📍Candidatos de #Argentina\n👩🏻‍💻Remoto\n💵USD\n\n#RT porfi\n\n👉🏻5…"
+  },
+  {
+    "full_text": "Qué ganas de atender a uno de esos pelotudos que se creen que se comem el mundo por subir una historia."
+  },
+  {
+    "full_text": "Mkjj alguien post stadium grito al edificio chau mati me cague todo y me desperté soy una señora Mirta"
+  },
+  {
+    "full_text": "@wesbos @fraruizl"
+  },
+  {
+    "full_text": "Agree. https://t.co/rUltoklR2s"
+  },
+  {
+    "full_text": "RT @codereggs: Bueno mi gente. Si alguno necesita un Frontend con React, Typescript, que maneje de todo un poco, incluyendo docker y kubern…"
+  },
+  {
+    "full_text": "RT @charliesbot: Cómo pensar en tu carrera en tech 👌🏼 https://t.co/rrr2OXKtuz"
+  },
+  {
+    "full_text": "RT @1carolinagirl: IT was released 33 years ago today \nNovember 18th 1990🎈🎬 https://t.co/ppXDKVFvCS"
+  },
+  {
+    "full_text": "RT @jmpevzla: X: El desarrollo de Software es facil...\n\nEl desarrollo de Software... https://t.co/0mzlLju0ml"
+  },
+  {
+    "full_text": "RT @SoyDalto: Tanto que me lo pidieron la pucha madre...\n\nEl mejor curso de HOSTING de la historia, GRATIS, 4k, super didactico y más, lo d…"
+  },
+  {
+    "full_text": "@fraruizl @CodelyTV jajajjajaj"
+  },
+  {
+    "full_text": "Me he apuntado al sorteo de @codelytv a ver si me toca el MacBook Pro 😬\n\n¡Ojo a los cursazos de buenas prácticas de programación que tienen en oferta con lo del #CodelyBlackFriday! https://t.co/0H6CL9tH9m"
+  },
+  {
+    "full_text": "RT @CodelyTV: ¡Sorteamos un MacBook Pro M1 y una suscripción de un año a Codely Pro por Black Friday!\n\nPuedes participar y es totalmente GR…"
+  },
+  {
+    "full_text": "Que lindo es poder ver quien SÍ y quien NO 🤩💘💘"
+  },
+  {
+    "full_text": "gané🫶"
+  },
+  {
+    "full_text": "@evelynzambrana Y todavia no tengo mi campo delantero cdsm"
+  },
+  {
+    "full_text": "RT @arielsbdar: Por que baja el Blue??? Varias razones:\n\n1) HABÍA SUBIDO A NIVELES INSOSTENIBLES: todo el mundo empresas e individuos reven…"
+  },
+  {
+    "full_text": "RT @PabloAgustinTol: La clave está en hacerlos entender que vos siempre vas a tener la mejor, hasta que se den cuenta que los que tienen un…"
+  },
+  {
+    "full_text": "@PabloAgustinTol Kjjjjj le ganaste a Pain hermano"
+  },
+  {
+    "full_text": "Trabajen por los que sean sus objetivos. Y no es solamente material, sino en cualquier aspecto. La publicidad efímera de las redes sociales tiene un limite, y si no te das cuenta terminas creyendo tu propia mentira."
+  },
+  {
+    "full_text": "hoy creo que ya puedo decir que me comí el 2023, y estoy muy contento por eso\ncada uno sabe internamente cuales son sus demonios, asi como tambien sabe cuanto se miente  uno mismo. Hoy faltando un mes puedo decir que SE PUDO,  SALIO BIEN y a este año lo di vuelta completamente."
+  },
+  {
+    "full_text": "RT @fmrockandpop: El 5 de noviembre de 1983 Charly editaba “Clics Modernos”.\n\nEl álbum tenía previsto llamarse Nuevos Trapos, pero finalmen…"
+  },
+  {
+    "full_text": "@Gaby_Cardozoo Conste que te espere flow"
+  },
+  {
+    "full_text": "RT @powerhdeleon: ¡Curso de C# GRATIS!\n\nPuede dar RT, le puede servir a uno de tus seguidores\n\nhttps://t.co/X0OL39AaP3"
+  },
+  {
+    "full_text": "@Gaby_Cardozoo Enache seguro"
+  },
+  {
+    "full_text": "Check out the AC/DC Shopping Spree Sweepstakes! https://t.co/pMWK4gapLh"
+  },
+  {
+    "full_text": "@evelynzambrana Como los dichosos del home office"
+  },
+  {
+    "full_text": "RT @labandainvierno: HERMOSA MAÑANA, VERDAD?\n❄️❄️❄️❄️❄️"
+  },
+  {
+    "full_text": "RT @MartinDandach: Djokovic sobre Maradona: “Tengo muy buenos recuerdos de Diego, cuando me dijeron de conocerlo no podía creer. Tuvimos cu…"
+  },
+  {
+    "full_text": "RT @delpotrojuan: Vamooo Noleee!!! Uno más dale dale 💪🏽🙏"
+  },
+  {
+    "full_text": "RT @jmgmoron: Djokovic, llorando en el banquillo tras ganar en 5 sets y más de 4 horas a Sinner.\n\nLágrimas de historia de este deporte.\n\nLE…"
+  },
+  {
+    "full_text": "RT @jmgmoron: ¿Es Novak Djokovic el mejor deportista de la historia? https://t.co/x0nrys4Bwo"
+  },
+  {
+    "full_text": "RT @dosinaga2: Y después te quieren hacer creer que Alcaraz y Sinner por pegarle fuerte son mejores que el big three....\n\nCon 38 años...."
+  },
+  {
+    "full_text": "RT @delpotrojuan: Me gustaría que la final de @AustralianOpen sea entre mis amigos Nole vs Carlitos 😊\n\nUstedes también?"
+  },
+  {
+    "full_text": "Tengo 1/2 ideas fuertes en la cabeza dándome vueltas y estoy tipo, flaco ya tenes suficiente con los 3 proyectos en los que laburas"
+  },
+  {
+    "full_text": "RT @Tiempodetenis1: Automáticamente se nos vino este momento a la cabeza 😂\n\n- ¿Quién sos?\n\n+ Rafael Nadal.\n\n- Ok, gracias.\n\nhttps://t.co/Po…"
+  },
+  {
+    "full_text": "Imaginate acostumbrarte a no laburar / laburar x dos mangos, y que encima te den de arriba todo capricho que tengas.\nEn mi opinión, la peor ruina :\nJamas vas a saber el esfuerzo real (guita/ horas ) que lleva eso que tanto te gusta."
+  },
+  {
+    "full_text": "@FabianFerrante @dosinaga2 Kjjj"
+  },
+  {
+    "full_text": "RT @nostalgiaa: Space Jam (1996) https://t.co/knpkNDKH3r"
+  },
+  {
+    "full_text": "nada que hacer con la gente que no tira para adelante"
+  },
+  {
+    "full_text": "RT @Tiempodetenis1: Como si el tiempo no hubiese pasado 🥹🥹🥹\n\nTe amamos Roger ❤️\n https://t.co/F7GjUVs1pp"
+  },
+  {
+    "full_text": "RT @dosinaga2: Si el BCRA está comprando a este ritmo en enero se imaginan lo que va a ser mayo junio?"
+  },
+  {
+    "full_text": "15 años del toxiqueo de twitter, qué tul https://t.co/winPBj0Q5p"
+  },
+  {
+    "full_text": "@lautidev_ Mucha diferencia con Cursor?"
+  },
+  {
+    "full_text": "Pelotudos de Leloir y obvio la patente borroneada @miituzaingo @ituzaingo https://t.co/PG9Ch6JI63"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Nazi\"\n\nPor estas imágenes del nazi Josef Schuetz cubriéndose la cara al llegar a un tribunal alemán: a sus 101 años, fue…"
+  },
+  {
+    "full_text": "RT @porqueTTarg: \"Taxi Driver\"\n\nPorque Robert De Niro trabajó 15 horas al día en un taxi durante un mes en Nueva York, preparándose para el…"
+  },
+  {
+    "full_text": "RT @AlpioCosta: SUICIDIO COLECTIVO del #TeamVerano?? Mirá👇\n\nPero el finde NUESTRA REVANCHA 👊\n\nLUN 🌦️ Camperita + 🌂\nMAR 🌦️ Campera + 🌂 (tard…"
+  },
+  {
+    "full_text": "RT @Pogopedia: 🤘🏽 IRON MAIDEN REGRESA A SUDAMÉRICA 🔥\n\n🌎 La banda confirmó un show en Chile para el 27 de noviembre de 2024. ¡HAGAMOS RUIDO…"
+  },
+  {
+    "full_text": "RT @PabloAgustinTol: Cuando me pongo las pilas no hay quien me siga el ritmo. Ni entrenado, ni trabajando, ni generando contenido, ni en bu…"
+  },
+  {
+    "full_text": "Busquen!"
+  },
+  {
+    "full_text": "Stay hungry, stay foolish"
+  },
+  {
+    "full_text": "@Daritomase @eudtoxic @JMilei Che no opino como ella pero muy boludo tu aporte, no nos hagas quedar tan tarados jaja"
+  },
+  {
+    "full_text": "RT @_onerolita: ☕️🚬 https://t.co/MrMUwpc3Nc"
+  },
+  {
+    "full_text": "RT @AlpioCosta: En el DÍA INTERNACIONAL CONTRA EL CAMBIO CLIMÁTICO🌡️🌍 me siento obligado a mostrarte q la temperatura de los océanos viene…"
+  },
+  {
+    "full_text": "Chan https://t.co/truMoP0kRt"
+  },
+  {
+    "full_text": "RT @HeavyArgentino: Ojalá esto se viralice nadie más que el lo merece. https://t.co/YmV1XAhBmU"
+  },
+  {
+    "full_text": "Condujeron sus propios destinos..."
+  },
+  {
+    "full_text": "RT @todonoticias: El referente de Heavy Metal tenía 61 años. Sufrió un infarto y murió camino a un hospital de Coronel Suárez \n\nhttps://t.c…"
+  },
+  {
+    "full_text": "RT @IorioQuotes: El dolor invade el alma del Metal Pesado Argentino, se nos fue Ricardo Horacio Iorio. QEPD"
+  },
+  {
+    "full_text": "No puedo con la gente sin convicción. Me destruyen. Me sacan. Me incomodan.\n\nSea la convicción que sea, alguna tenes que tener. Actitud."
+  },
+  {
+    "full_text": "Arrancar el sábado con 4 horitas de Ingles es un amorodio🥰"
+  },
+  {
+    "full_text": "Muerte a la gente que te hace perder tiempo pidiéndote consejo u opinión al pedo. Pelotudeces no."
+  },
+  {
+    "full_text": "Enfocadísimo en mi crecimiento y mejora 🤛🏻🤘🏻👨🏻‍💻📚"
+  },
+  {
+    "full_text": "RT @MoureDev: ¡Estoy muy feliz!\n\nYa está disponible mi primer libro: \"Git &amp; GitHub desde cero\"\n\nGuía de estudio teórico-práctica paso a pas…"
+  },
+  {
+    "full_text": "Los QAs 200000% https://t.co/43gyw9Ms6H"
+  },
+  {
+    "full_text": "No les pasa cuando están en una que les parece que todo el mundo o casi todo el mundo a su alrededor finge demencia respecto a su vida"
+  },
+  {
+    "full_text": "@lautidev_ Docker e instalas la imagen que se te cante. postgresql o mysql van bien"
+  },
+  {
+    "full_text": "@evelynzambrana Es viernes che"
+  },
+  {
+    "full_text": "RT @powerhdeleon: En noviembre sale mi curso de .NET, espero que sea el mejor curso jamás creado por mi, estará a un precio accesible, ya s…"
+  },
+  {
+    "full_text": "RT @pablokbs: macOS CONTAINERS. 7.37 GB la imagencita. Le veo futuro\n\nhttps://t.co/ZHFBj5hMir https://t.co/Z4cGsKtkfm"
+  },
+  {
+    "full_text": "RT @powerhdeleon: Yo de Lunes a Viernes mientras estoy Programando."
+  },
+  {
+    "full_text": "RT @powerhdeleon: Diseñar Software no es hacer dibujos. \n\nDiseñar software es abstraer el problema: \n-Dividir el problema general.\n-Organiz…"
+  },
+  {
+    "full_text": "RT @FilmUpdates: In honor of #BatmanDay, tell us who your favorite live-action Batman is. 🦇 https://t.co/xprrMEfBXf"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: You can only choose one https://t.co/3cOmChS104"
+  },
+  {
+    "full_text": "@evelynzambrana https://t.co/OXkETz1mb2"
+  },
+  {
+    "full_text": "Chupate una pija Massa https://t.co/Ee3zCEuFzp"
+  },
+  {
+    "full_text": "RT @5eniorDeveloper: Cualquiera de mis familiares cuando voy de visita al pueblo https://t.co/k5sqzvOyW1"
+  },
+  {
+    "full_text": "RT @CinemaTweets1: A David Fincher Film https://t.co/KCVUkzKb7s"
+  },
+  {
+    "full_text": "RT @CinemaTweets1: One of the Best Performances of 2023 https://t.co/4GuqyvM9rk"
+  },
+  {
+    "full_text": "Quejarse es gratis\nEstar al pedo también \n\nRecuerden amiguitos"
+  },
+  {
+    "full_text": "RT @Nazacar09: Me desperté súper temprano 5am, sintiéndome súper productiva, desayuno saludable, meditación, respondiendo mails! \nPeeeroo……"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: Christopher Nolan explains why he cast Tom Conti as Albert Einstein:\n\n“He’s a really wonderful actor who also bears a pre…"
+  },
+  {
+    "full_text": "La concha de tu madre pwc"
+  },
+  {
+    "full_text": "RT @PabloPlanovsky: La mejor noticia: por primera vez se va a reestrenar Nueve reinas en cines, en una versión digital remasterizada en 4K.…"
+  },
+  {
+    "full_text": "RT @odenhead: Better Call               Better Call \nSaul S1 E1                Saul S6 E13 https://t.co/1DxvddEgu8"
+  },
+  {
+    "full_text": "About"
+  },
+  {
+    "full_text": "RT @TarantinoWorld: Christoph Waltz's Iconic Opening Scene in Inglourious Basterds (2009) https://t.co/s0D3jHl4BH"
+  },
+  {
+    "full_text": "RT @DanielBlancoSWE: ¿Buscas un trabajo REMOTO y con buen SUELDO?\n\nSi sólo usas LinkedIn te estás perdiendo muchas oportunidades.\n\n🧵 Te dej…"
+  },
+  {
+    "full_text": "RT @5eniorDeveloper: Yo pensando que ejecuté el update en DEV... https://t.co/hEZwQfgQD0"
+  },
+  {
+    "full_text": "RT @RealEmirHan: Quentin Tarantino https://t.co/HvDe2oQGhs"
+  },
+  {
+    "full_text": "RT @CinemaTweets1: Directed by Stanley Kubrick https://t.co/KZAb0TprVt"
+  },
+  {
+    "full_text": "RT @MauroFdz: Bueno, ya está todo dicho. La batalla final tiene que ser entre las Fuerzas Territoriales de la Nación contra las Fuerzas del…"
+  },
+  {
+    "full_text": "RT @TheCinesthetic: breaking bad. https://t.co/mKwh1EyV5W"
+  },
+  {
+    "full_text": "RT @hothorrorqueen: 😈😈😈The Exorcist•1973😈😈😈 https://t.co/CvTlilGxWN"
+  },
+  {
+    "full_text": "RT @freddier: La \"ciudad que nunca duerme\" no es New York.\nEs Buenos Aires.\n\nMás que Tokyo, más que Madrid, más que ninguna de Latam o USA.…"
+  },
+  {
+    "full_text": "RT @GYM_EXTREMO: Afirmaciones nutricionales siglo XXI:\n\n-Los carbohidratos engordan.\n- La grasa tapa las arterias y son malas\n- La proteina…"
+  },
+  {
+    "full_text": "RT @CarlosMaslaton: Qué haría yo? Tan solo esto: Liberar el mercado de cambios, dejar flotar, retirar al BCRA de la compra-venta de divisas…"
+  },
+  {
+    "full_text": "Los comportamientos de este pibe no tienen precedentes en cuanto a nivel de pelotudes."
+  },
+  {
+    "full_text": "RT @dosinaga2: Bueno larga noche, 13hs por aquí, recopilando un poquito todo.\n\nGran perdedor JxC, Massa con muy poco va llegar al ballotage…"
+  },
+  {
+    "full_text": "RT @RagnarTLothbrok: \"Athelstan, perdóname. No por lo que hice, sino por lo que voy a hacer\" https://t.co/VcKaZzpBmw"
+  },
+  {
+    "full_text": "RT @CarlosMaslaton: Somos 32 este mediodía en un almuerzo. Tema central: política. El único que vota a Milei soy yo."
+  },
+  {
+    "full_text": "RT @AlberdianoArg: Los que voten al Leon no se olviden de ir asi hasta la mesa de votacion! Es imprescindible que todos vean a quien votan…"
+  },
+  {
+    "full_text": "RT @FinanzasArgy: 🚨ATENCIÓN | Cepo importador: por falta de piezas importadas, Peugeot tuvo que parar la producción\n\n⚠️Otras terminales tam…"
+  },
+  {
+    "full_text": "RT @todonoticias: El ministro de Seguridad Aníbal Fernández tomó distancia ante el crimen de Morena: \"No tengo por qué meterme en ese tema\"…"
+  },
+  {
+    "full_text": "@agustessa83 @dosinaga2 @xfabianasolanox Se puede pagar con cualquier tarjeta de credito … averigua antes …\nVota bien"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 MORENA MURIÓ PORQUE LA ASALTARON\n- La nena de 11 años iba al colegio, le robaron la mochila y le golpearon la cabeza\n- Ll…"
+  },
+  {
+    "full_text": "@dosinaga2 + Restringida a 15 días*"
+  },
+  {
+    "full_text": "@dosinaga2 Dani, consulta, si compré AL30 el lunes y el martes, y vendí hoy (los nominales del lunes) para tener los usd, puedo volver a comprar mañana al30? la primera compra fue a 48 hs y la segunda contado inmediato. No me queda claro si está restringida o no la compra venta AL30/AL30D"
+  },
+  {
+    "full_text": "RT @dosinaga2: El 90% va a vender el viernes pre PASO en esta zona, entendible, después de 2019 nadie quiere arriesgar.\n\nYo no jodo cuándo…"
+  },
+  {
+    "full_text": "Se dispara el CCL pre paso? Veremos mañana como arranca el tole tole"
+  },
+  {
+    "full_text": "RT @DaveMustaine: I'd like to wish James Hetfield a 60th Birthday!\n\n...oops! Happy Birthday https://t.co/zMqyag8pjs"
+  },
+  {
+    "full_text": "Absolutely gutted that my over £1000 ticket that was destroyed in the hands of the @Fly_Norwegian team will not be compensated. I need a solution that compensates for all the emotional and economic damage that this has caused."
+  },
+  {
+    "full_text": "RT @1carolinagirl: The Nightmare Before Christmas (1993)💀🎬 https://t.co/TYCNSYx07b"
+  },
+  {
+    "full_text": "RT @TraductorTeAma: - A quién votas?\n- A Massa\n- Vivís bien?\n- Si\n- Dónde vivís?\n- En la calle...\n\n💃🌈🕺 https://t.co/qMhYnN83Fy"
+  },
+  {
+    "full_text": "RT @PotterWorldUK: 31 July 1991: Hagrid: \"You're a wizard, Harry!\"\nHarry: \"I'm a what?\" \n\n#HappyBirthdayHarryPotter https://t.co/i977EkoPZ7"
+  },
+  {
+    "full_text": "RT @LordVoldemort_S: \"Este chico será famoso, no habrá ningún niño en nuestro mundo que no conozca su nombre\"\n\nHoy cumple 43 años Harry Pot…"
+  },
+  {
+    "full_text": "RT @FerConfe: En pocas horas estará de regreso la lluvia en la Ciudad, será a partir de esta noche y lloverá hasta mañana por la mañana. No…"
+  },
+  {
+    "full_text": "Atraigo la lluvia como dice So https://t.co/LoyslO9Idy"
+  },
+  {
+    "full_text": "Hoy casi mato a diez fueguinos masomenos"
+  },
+  {
+    "full_text": "Qué onda es el día para recordar de qué equipo son y cómo se cagan entre ustedes o khe"
+  },
+  {
+    "full_text": "RT @FerConfe: ❄️ Amanecer helado en el AMBA, es la mañana más fría de la semana. Datos: SMN https://t.co/JBYsKpUqx8"
+  },
+  {
+    "full_text": "RT @HBOMaxLA: .。\nｏ\n○\n╭◜◝  ͡  ◜  ͡  ◜◝ ◜  ͡  ◝ ◜ ͡   ╮\n(   ¿Y si vemos                )\n(   todas las pelis          )\n(               de…"
+  },
+  {
+    "full_text": "@sxxthsayer Claramente ese cartel te excluye a vos papito"
+  },
+  {
+    "full_text": "@Theraven2839 https://t.co/RxpYqTMlKU"
+  },
+  {
+    "full_text": "RT @1carolinagirl: The Return of the Living Dead (1985)💀🎬 https://t.co/8MbYmMSany"
+  },
+  {
+    "full_text": "Mas ansiedad que nunca y más laburo que Sarmiento …\nPero no me quejo porque después los de sistemas no agarramos la pala 😂😶‍🌫️"
+  },
+  {
+    "full_text": "La semana mas larga de mi vida hermano"
+  },
+  {
+    "full_text": "qué loco como a veces la vida retira a algunas personas de tu entorno para que ingresen nuevas.\nun ping pong constante, aprendes de los que estaban y de los que están"
+  },
+  {
+    "full_text": "RT @maxifirtman: Pagar para garantizar no estar muy cerca de niños menores de 7 años en un avión.\n\n¿Sí o no? 🤔 https://t.co/1E0Cg4LncC"
+  },
+  {
+    "full_text": "ya siento ese English Breakfast"
+  },
+  {
+    "full_text": "pisando las brasas disfruto mas quien soy"
+  },
+  {
+    "full_text": "RT @5eniorDeveloper: Para que se vayan acostumbrando ! https://t.co/Lld3g3azGT"
+  },
+  {
+    "full_text": "Estoy con una cantidad abismal de laburo … insalubre\nPero siempre sostengo que todo depende de nuestra perspectiva y estado anímico"
+  },
+  {
+    "full_text": "Cuánto salame sufrido suelto"
+  },
+  {
+    "full_text": "RT @FerConfe: Mientras nos preparamos para otro día soleado, me gustaría comentarles que, llegarán muchas nubes durante el fin de semana...…"
+  },
+  {
+    "full_text": "@sofipierantoni1 😍😍 yo a vosss"
+  },
+  {
+    "full_text": "Jajajajjajajajajja"
+  },
+  {
+    "full_text": "RT @FerConfe: Está muy linda la mañana, pero tenga en cuenta que cerca de medianoche llega una tormenta. No quería que empezaran el día sin…"
+  },
+  {
+    "full_text": "Robando por demás 😍 https://t.co/kVmQGNeb0p"
+  },
+  {
+    "full_text": "RT @madorni: ¿? https://t.co/cnLL8rbo5V"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 GOLPES QUE MATAN | 1 MINUTO DE PIÑAS\n- Cuatro jóvenes agredieron a otros dos después de una discusión en el boliche\n- Uno…"
+  },
+  {
+    "full_text": "RT @FerConfe: Me parece que no estaría faltando mucho para que empiece a llover en forma de chaparrones aislados en la Ciudad...Y no solo c…"
+  },
+  {
+    "full_text": "RT @FerConfe: Abril empieza con frío. Las cifras de temperatura a esta hora en el territorio nacional. El aire frío circula por la provinci…"
+  },
+  {
+    "full_text": "@Gaby_Cardozoo 🌶️ 💪🏻 vaammmmooo"
+  },
+  {
+    "full_text": "@FedeAlbanello En la misma … pero la unica que queda es confiar"
+  },
+  {
+    "full_text": "Lets see https://t.co/elvxLNOW3E"
+  },
+  {
+    "full_text": "RT @FerConfe: Hace ya mucho que estamos en sequía y ya te olvidaste de lo lindo que es una buena lluvia. Entonces es cuestión de esperar a…"
+  },
+  {
+    "full_text": "@Agus_Garciia Perdon?"
+  },
+  {
+    "full_text": "@PabloAgustinTol Jajaja que hdp"
+  },
+  {
+    "full_text": "GRACIAS DIOS https://t.co/mBYtGjkCK1"
+  },
+  {
+    "full_text": "RT @FerConfe: ¿Cuándo vuelve la lluvia? La lluvia regresa la semana que viene a nuestra área y estos son los acumulados previstos por el mo…"
+  },
+  {
+    "full_text": "@MovistarArg  no te podes cortar a esta hora . Malísimo.  No me permiten ni laburar ni boludear."
+  },
+  {
+    "full_text": "No puedo estar mas tranquilo y feliz 🙏🏻🥹"
+  },
+  {
+    "full_text": "RT @ImagenRetro: https://t.co/ttJtnCeXmo"
+  },
+  {
+    "full_text": "RT @Gaby_Cardozoo: Cuantos planes sociales pagué este mes? La concha del estado"
+  },
+  {
+    "full_text": "RT @Megadethdm: Como se extraña a Carajo eh, la concha bien de la lora ☹️"
+  },
+  {
+    "full_text": "Estafa piramidal diria un amigo🤣 https://t.co/HduMnRpgQN"
+  },
+  {
+    "full_text": "RT @KevinTurco: Preocúpate por vivir el momento, el tiempo es lo más finito que tenemos. Da igual vivir al día o no (cuando no se puede más…"
+  },
+  {
+    "full_text": "RT @AlpioCosta: UNA LOCURA | Un día de julio en pleno verano! Y, además, pasamos del amanecer más cálido en la historia de FEBRERO el domin…"
+  },
+  {
+    "full_text": "RT @labandainvierno: TOTALMENTE DESNUDO"
+  },
+  {
+    "full_text": "RT @labandainvierno: HEMOS TOMADO EL PODER!"
+  },
+  {
+    "full_text": "RT @KevinTurco: Si no sabes por lo que está pasando el otro tenés una sola opción: cerrar bien el orto. Gracias."
+  },
+  {
+    "full_text": "@Gaby_Cardozoo Este clima y vos😍"
+  },
+  {
+    "full_text": "A ver de qué jugamo"
+  },
+  {
+    "full_text": "No https://t.co/CP0MvUMDWb"
+  },
+  {
+    "full_text": "RT @elcosodelapizza: Yo después de comer 6 veces al día https://t.co/at6o4oDVYe"
+  },
+  {
+    "full_text": "Indique posibles soluciones instantáneas para pensamientos negativos autogenerados. 😵‍💫"
+  },
+  {
+    "full_text": "RT @fabipa90: https://t.co/E8ZvCjuVEm"
+  },
+  {
+    "full_text": "Las salidas random con tonga son lo mejor… mi eterna segunda ❤️❤️"
+  },
+  {
+    "full_text": "@PabloAgustinTol @FedeMaciel_  quien pudiera tener estas inquietudes"
+  },
+  {
+    "full_text": "Todos tenemos nuestros días, y está perfectooo. Hay que permitírselo"
+  },
+  {
+    "full_text": "RT @ImagenRetro: Hoy se cumplen 15 años de la trágica muerte del gran Heath Ledger. Siempre te recordaremos, leyenda. https://t.co/wVU92uE4…"
+  },
+  {
+    "full_text": "La comparación la tenes que hacer por costo de vida , payasin https://t.co/IsI71P1d8s"
+  },
+  {
+    "full_text": "Pero la concha de tu madre https://t.co/oVr7iEuOwy"
+  },
+  {
+    "full_text": "@Gaby_Cardozoo Veni conmigo a Melo sabes lo loca que se pone"
+  },
+  {
+    "full_text": "Inviable https://t.co/nQM9H79nxW"
+  },
+  {
+    "full_text": "Siga sigaaaa"
+  },
+  {
+    "full_text": "RT @PabloAgustinTol: No vibro con gente que no sea productiva y optimista. No estoy para personas quejosas. Estoy para quien quiere disfrut…"
+  },
+  {
+    "full_text": "2023 te tengo fe💨"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 ASALTARON AL INTENDENTE DE MORÓN \n-Lucas Ghi fue víctima de un robo en la puerta de su casa. \n-Los ladrones se llevaron s…"
+  },
+  {
+    "full_text": "Mood https://t.co/QN5SAjvZzR"
+  },
+  {
+    "full_text": "Ya valio madre"
+  },
+  {
+    "full_text": "@PabloAgustinTol Pedite una ensalada culiao"
+  },
+  {
+    "full_text": "SI SEÑOR https://t.co/mVZScjh5PG"
+  },
+  {
+    "full_text": "RT @AtaqueFutbolero: Recuerden esto. https://t.co/rlaRhj0NcU"
+  },
+  {
+    "full_text": "RT @JuanCecchi: \"Este año reí, llore... conocí personas maravillosas, otras que se alejaron...\" https://t.co/46QjPOX7ms"
+  },
+  {
+    "full_text": "RT @labandainvierno: HEMOS INTERVENIDO EL 1 DE ENERO POR LA FUERZA."
+  },
+  {
+    "full_text": "RT @1carolinagirl: The Shining (1980)🥃🎉🔪 https://t.co/UPja7QUnie"
+  },
+  {
+    "full_text": "Dos dias seguidos que flaqueamos con la foto @Gaby_Cardozoo  @Tonga_Moran  pero mejor forma de empezar no hay ❤️"
+  },
+  {
+    "full_text": "RT @DjokovicFan_: Novak Djokovic compares the Big 3:\n\n“Federer: The most talented and beautiful to watch.\nNadal: The complete opposite of F…"
+  },
+  {
+    "full_text": "RT @jmgmoron: Si os habéis cruzado con este vídeo de Alcaraz entrenando el saque junto a Samu López, hay varias cosas que quizá se te han p…"
+  },
+  {
+    "full_text": "@Desdemona_jna Qué mierda tendrá que ver si tienen o no tatuajes 🤣"
+  },
+  {
+    "full_text": "RT @PqTTExplorer: “Diez”\n\nPorque Lionel Messi y Diego Armando Maradona hicieron dupla hoy en el futbol tenis.\n\n https://t.co/1XzkY7PNa1"
+  },
+  {
+    "full_text": "RT @juniorhhjr: No es broma, salir de tu casa y regresar a salvo durante 365 días es algo por lo que hay que estar agradecido."
+  },
+  {
+    "full_text": "RT @feminstina: La Navidad en los barrios argentinos es esto: la calle en calma, la luna entre cables, alguna radio prendida, olor a asado…"
+  },
+  {
+    "full_text": "RT @iUsuaria: moraleja del 2025, tienes que perderlo todo para poder ganar"
+  },
+  {
+    "full_text": "RT @geekdegafas: La Odisea.\n\nDirigida por Christopher Nolan.\n\nMatt Damon\nTom Holland\nAnne Hathaway\nZendaya\nLupita Nyong'o\nRobert Pattinson…"
+  },
+  {
+    "full_text": "@pbarbieri por qué limitan las transferencias diarias en USD? Son ustedes o es de más arriba?\nMalisima esa medida"
+  },
+  {
+    "full_text": "RT @maxifirtman: En importante unicornio IT el ambiente de fin de año no viene muy bien.\n\nLa encuesta interna nunca dio tan mal, se canceló…"
+  },
+  {
+    "full_text": "RT @leo_osn5: la vibra del cine es mi favorita, te olvidas del mundo como 2 horas"
+  },
+  {
+    "full_text": "RT @SitoCinema: ¡ES OFICIAL 🚨! A partir de Enero de 2026, reestrenarán la trilogía de EL SEÑOR DE LOS ANILLOS, en salas de cine, debido a s…"
+  },
+  {
+    "full_text": "RT @NachoAbuchdid: Mas del 50% de tus gastos se lo llevo tu principal pasivo que es el auto.  Con tu ingreso claramente tenes que usar tran…"
+  },
+  {
+    "full_text": "RT @JavierWoT: Esta noticia es terrible a unos niveles que no os hacéis a la idea. Quiero explicaros por qué esto es una catástrofe para lo…"
+  },
+  {
+    "full_text": "Me estas matando loko lpm https://t.co/AmowZlEg4j"
+  },
+  {
+    "full_text": "RT @efeortega: Somos la generación cinéfila que vio morir MGM, 20th Century Fox y ahora Warner Bros. No se para ustedes, para mí es triste"
+  },
+  {
+    "full_text": "RT @ESPNtenis: ¿CREÉS QUE LOS TENISTAS SON LOS MEJORES ATLETAS DEL MUNDO? 🤔\n\n\"Creo que los tenistas son los mejores atletas del mundo. Cinc…"
+  },
+  {
+    "full_text": "@vmenditto @uala_arg @pbarbieri  lo mismo por aca, los reintegros no se me acreditan hace mas de un mes"
+  },
+  {
+    "full_text": "@pbarbieri Pier, me das una mano? Todavia no veo el resumen de la tarjeta de credito de noviembre. Deberia haberlo tenido desde el lunes."
+  },
+  {
+    "full_text": "RT @CamilusAugustus: Tarde aprendí que en la vida profesional no se valora el trabajo sino el humo que se vende."
+  },
+  {
+    "full_text": "RT @Roybattyforever: Ahora lo vemos como algo prehistórico.\n\nEn los 90, siendo un niño, esto era LA VIDA. https://t.co/CmuSWTLqyv"
+  },
+  {
+    "full_text": "@Kali_l123 @uala_arg @pbarbieri Bardear * al pedo, es gratis"
+  },
+  {
+    "full_text": "@Kali_l123 @uala_arg @pbarbieri Y entonces por qué usas la app?\nQuejarse es gratis"
+  },
+  {
+    "full_text": "@Kali_l123 @uala_arg @pbarbieri No me parece que sea así. Por eso banco su producto."
+  },
+  {
+    "full_text": "@uala_arg @pbarbieri Si bot ya les mandé por la app al chaty no funca. Por eso y porque quiero solucionar el problema con la app que ELIJO usar, y ademas porque es alcanzable en redes, decido arrobar a Pier"
+  },
+  {
+    "full_text": "@pbarbieri  tenes idea de cuándo estarían disponibles los resúmenes de la tarjeta de credito de este mes? Ya estamos a martes, tengo que pagar para poder seguir usándola ( necesito ver cuanto descontar de impuesto país al pagar en usd) debería haber estado ayer lunes entiendo."
+  },
+  {
+    "full_text": "RT @Djoko_UTD: 🇨🇭\"Don't tell me to shut up. If I want to speak, I speak. I don't care what he said, he waited too long. Don't explain the r…"
+  },
+  {
+    "full_text": "RT @ImpactoEterno: https://t.co/b2EqCM7DeC"
+  },
+  {
+    "full_text": "RT @MOTIVAND0TE: https://t.co/bpnn5n97nU"
+  },
+  {
+    "full_text": "Lo mejor de estar viendo stranger things recien ahora es que me quedan 5 temporadas enteras jeje"
+  },
+  {
+    "full_text": "RT @micolpontiero: En tus 20s, casi 30s, va a haber un momento en el que sientas que tenés que elegir entre la vida que conocés y la que te…"
+  },
+  {
+    "full_text": "RT @mauroszeta: 🚨 PERDONEN QUE USE ESTA CUENTA PARA TANTA EMOCIÓN:\n- ME ACABO DE ENTERAR QUE GANÉ EL MARTÍN FIERRO LATINO; FELIZ Y PLENO\n-…"
+  },
+  {
+    "full_text": "@SolidKroket Sinner"
+  },
+  {
+    "full_text": "RT @gptcrosa: No confíen nunca en nadie."
+  },
+  {
+    "full_text": "RT @cinefiliacult: No me extraña que fuera el primer corto que ganara un Óscar. “Árboles y flores” será de 1932, pero esta animación sigue…"
+  },
+  {
+    "full_text": "RT @gptcrosa: A mi hijo le enseño cada vez mas como usar ChatGPT para darle las respuestas y para que la use de tutor (prepararse para exám…"
+  },
+  {
+    "full_text": "RT @maxifirtman: 🔴HÁBLALO: NUEVO CONTRATTO ESTATAL\n\nLlegó la VTV de la inclusión a @YPFoficial: un pago anual  por estación a cambio de una…"
+  },
+  {
+    "full_text": "RT @gptcrosa: PORQUE ESCUCHAR NI UN SEGUNDO A GENTE QUE NUNCA TUVO UN TRABAJO REAL Y SUS OPINIONES O SOLUCIONES SI NUNCA IMPLEMENTARON NADA…"
+  },
+  {
+    "full_text": "RT @ArtCelineLove: christmas in old disney https://t.co/crW36ouwzY"
+  },
+  {
+    "full_text": "@EpitafioDeSicil No entiendo por qué la obsesión en tirar mala leche a los que HACEN\n \nSe ve que es el indicador de que las cosas están saliendo bien!!! @arielsbdar 🤟🏻"
+  },
+  {
+    "full_text": "RT @Nereura9: Este es un truco que los ladrones de coches no quieren que sepas. https://t.co/DTBYCgyivN"
+  },
+  {
+    "full_text": "@pbarbieri @uala_arg Si entiendo que es por scoring. Pero ponele yo casi ni usaba la app. Nada. Y me dio la opcion. Ahi la pedi y ahora soy full usuario. No le daba nada de uso yo."
+  },
+  {
+    "full_text": "@pbarbieri @uala_arg Hola @pbarbieri Pier!\nConsulta, por qué puede ser que a un usuario no se le habilite el botoncito para pedir la tarjeta de Crédito? Ya tiene prepaga, y aprox 8000 puntos en la app.\n\nSe la estoy meta recomendar a mis amigos y no les da la opcion de pedirla."
+  },
+  {
+    "full_text": "RT @arielsbdar: Los pibes que hoy terminan el colegio están en el momento más desafiante para decidir qué estudiar.\n\nLas universidades se q…"
+  },
+  {
+    "full_text": "@grok @C5N Y se sabe algo sobre el victimario?"
+  },
+  {
+    "full_text": "@C5N @grok  qué les terminó sucediendo a las tres victimas? Vivieron?"
+  },
+  {
+    "full_text": "RT @xnt: Mi vida profesional be like https://t.co/RKIXqTJuvw"
+  },
+  {
+    "full_text": "RT @MOTIVAND0TE: https://t.co/7OAmIqCcXm"
+  },
+  {
+    "full_text": "Atroden ac dc me pueden chupar bien los 2 egrs"
+  },
+  {
+    "full_text": "RT @MOTIVAND0TE: https://t.co/lDGgCIBhTl"
+  },
+  {
+    "full_text": "RT @ArtCelineLove: christmas time in old disney https://t.co/jajJm9GuhW"
+  },
+  {
+    "full_text": "RT @TheCinesthetic: the nightmare before christmas (1993) dir. henry selick https://t.co/ytnck9FuxV"
+  },
+  {
+    "full_text": "RT @brucebatman007: Solo los verdaderos cinéfilos conocerán el destino de este hombre. https://t.co/WixsW4JmyP"
+  },
+  {
+    "full_text": "RT @GiantMaster131: @HalloweenVerse https://t.co/xNdgnaHlJ7"
+  },
+  {
+    "full_text": "RT @HalloweenVerse: 😕🥺😢😭 https://t.co/5wsjlYaMZN"
+  },
+  {
+    "full_text": "RT @solisolsoli: https://t.co/6PsSgZYfe1"
+  },
+  {
+    "full_text": "RT @CartoonsOTMoon: https://t.co/4jlPMiWRi2"
+  },
+  {
+    "full_text": "RT @EiProfeta: 31 de Octubre / 1 de Noviembre https://t.co/Z15Xtmiow6"
+  },
+  {
+    "full_text": "RT @felipelahiteau: Por favor el que diseñó la app del BBVA tiene que ir preso"
+  },
+  {
+    "full_text": "RT @Indie5051: ¡YA ES HALLOWEEEN! 🎃👻 https://t.co/Hi1OVZBimB"
+  },
+  {
+    "full_text": "RT @TheCinesthetic: https://t.co/XofiiDFSf5"
+  },
+  {
+    "full_text": "RT @horrorsthetics: https://t.co/7lB4DQnJMZ"
+  },
+  {
+    "full_text": "RT @ArtCelineLove: it’s almost halloween🎃 https://t.co/kxEZMCifKW"
+  },
+  {
+    "full_text": "RT @ArtCelineLove: autumn season in old cartoons https://t.co/zYtUa5IY7X"
+  },
+  {
+    "full_text": "RT @Javisness: Hoy es el único día que puedes retuitear esto https://t.co/J8rT7dYJzo"
+  },
+  {
+    "full_text": "RT @1carolinagirl: The Nightmare Before Christmas (1993) 👻🎃🎬 https://t.co/ORJznDKWK3"
+  },
+  {
+    "full_text": "RT @Javisness: https://t.co/cPgnGeovqM"
+  },
+  {
+    "full_text": "RT @santimenendez19: El dia de ayer fui desvinculado de la empresa donde trabajaba, asi que estoy en busqueda laboral como Software Enginee…"
+  },
+  {
+    "full_text": "RT @luupstein: Mi hermano y yo yendo a votar desde la loma del orto porque nunca hicimos el cambio de domicilio. https://t.co/FTBAAbKyut"
+  },
+  {
+    "full_text": "RT @MemeMinistro: EL PIBE QUE NO COMPRÓ DÓLARES Y DEJÓ TODO EN MERCADO PAGO https://t.co/87GCNiVoT3"
+  },
+  {
+    "full_text": "RT @CarlosMaslaton: @dosinaga2 Es repugnante, Osinaga, esto es una ciudad no un campito para boluditos."
+  },
+  {
+    "full_text": "Vengo a Belgrano me acuerdo del Oeste y me quiero mwordear"
+  },
+  {
+    "full_text": "RT @NolanAnalyst: One of the best trilogies in cinema history https://t.co/qzJHuyGTqo"
+  },
+  {
+    "full_text": "RT @ImagenRetro: Un día como, hoy pero de hace 10 años, Marty McFly llegó al futuro. #BackToTheFutureDay https://t.co/PtQKCn3Zyp"
+  },
+  {
+    "full_text": "RT @HorrorLover27: Mentally I’m here https://t.co/VqksLTBfoW"
+  },
+  {
+    "full_text": "RT @ArtCelineLove: Christmas in old cartoons https://t.co/Wj6tJ1OU2s"
+  },
+  {
+    "full_text": "RT @FinanzasArgy: 🚨💸 El blue, en pausa: corrieron rumores de allanamientos y algunas cuevas frenaron la operatoria"
+  },
+  {
+    "full_text": "RT @ArtCelineLove: christmas in old disney https://t.co/rlDR14YwoJ"
+  },
+  {
+    "full_text": "RT @1carolinagirl: The Nightmare Before Christmas (1993)🎃🎬 https://t.co/KjQZkLo9Js"
+  },
+  {
+    "full_text": "La tv argentina esta en un momento 100% fiel a Gran Hermano\nNo hay duda"
+  },
+  {
+    "full_text": "Jajaja qué programa mas alejado de la musica hermano"
+  },
+  {
+    "full_text": "RT @tomiezequiel15: mi papá les tiene un consejo: https://t.co/YNCba2F0pT"
+  },
+  {
+    "full_text": "RT @Tiempodetenis1: Este momento en la red entre Djokovic y Vacherot ♥️🥹\n\n- Novak: \"Te lo mereces. Jugaste increíble. Sigue así\".\n\n- Valent…"
+  },
+  {
+    "full_text": "RT @santisiri: asi las cosas país. https://t.co/Yzim27Nybb"
+  },
+  {
+    "full_text": "RT @gptcrosa: @JulianLBaasch https://t.co/n2cBKhONME"
+  },
+  {
+    "full_text": "RT @pbarbieri: Soy optimista. Porque el cinismo no construye."
+  },
+  {
+    "full_text": "RT @ExperimentScorn: https://t.co/zYpbE6U567"
+  },
+  {
+    "full_text": "RT @MOTIVAND0TE: https://t.co/krpsnUn876"
+  },
+  {
+    "full_text": "RT @screamnhorror: me october 1st https://t.co/fjQRsK3YOF"
+  },
+  {
+    "full_text": "RT @Indie5051: Comienza la temporada de estas grandiosas películas 🎃 https://t.co/pa6O6vgJNZ"
+  },
+  {
+    "full_text": "RT @SoySimpsonito: 30 de septiembre // 1 de octubre https://t.co/74K1FQ80yj"
+  },
+  {
+    "full_text": "RT @Javisness: https://t.co/AW8YF3B3qo"
+  },
+  {
+    "full_text": "RT @webofpagne: September 30th.      October 1st https://t.co/Cd1LFBDR2B"
+  },
+  {
+    "full_text": "@dosinaga2 todo GGAL recien dani, venta mep y compra of.\n10% de ganancia. Ya retiré y nos vimos jaja"
+  },
+  {
+    "full_text": "RT @Javisness: Hoy es el único día que puedes retuitear esto https://t.co/KmKC07QVMA"
+  },
+  {
+    "full_text": "RT @Indie5051: Está imágen solo se puede usar una vez al año.\n\n¡36 días para Halloween! https://t.co/Zius09lIpF"
+  },
+  {
+    "full_text": "@arielsbdar Ari , que Bind quite el limite de compra mensual lpm"
+  },
+  {
+    "full_text": "RT @clarincom: RÉCORD DE SUICIDIOS EN JÓVENES\n\nLectura rápida\nLos suicidios en jóvenes de 20 a 29 años alcanzaron un récord. Además, por pr…"
   }
 ]
