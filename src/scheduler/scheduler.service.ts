@@ -72,9 +72,7 @@ export class SchedulerService implements OnModuleInit {
     try {
       const result = await this.tweetGeneratorService.generate();
       this.logger.log(`Cron: Daily tweet proposal — DONE (id: ${result.id})`);
-      await this.safeNotify(
-        `📝 Tweet propuesto:\n\n${result.tweet}\n\nUsá /status o el bot para aprobar/rechazar.`,
-      );
+      await this.telegramService.sendProposal(result.id, result.tweet);
     } catch (error) {
       const message = error instanceof Error ? error.message : String(error);
       this.logger.error(`Cron: Daily tweet proposal — FAILED: ${message}`);

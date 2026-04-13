@@ -74,6 +74,20 @@ export class TelegramService implements OnModuleInit, OnModuleDestroy {
     }
   }
 
+  // Envía una propuesta de tweet con el mismo teclado inline que /generar
+  // (Aprobar / Rechazar / Regenerar). Lo usa el cron de propuesta diaria.
+  async sendProposal(tweetId: number, tweet: string): Promise<void> {
+    try {
+      await this.bot.api.sendMessage(
+        this.allowedUserId,
+        `📝 Tweet propuesto:\n\n${tweet}`,
+        { reply_markup: this.buildProposalKeyboard(tweetId) },
+      );
+    } catch (error) {
+      this.logger.error(`Proposal send failed: ${error}`);
+    }
+  }
+
   // Registra comandos de Telegram (/start, /status, /aprender, /generar, /tema)
   private registerCommands() {
     this.bot.command('start', async (ctx) => {
@@ -84,6 +98,7 @@ export class TelegramService implements OnModuleInit, OnModuleDestroy {
             '/aprender — Analizar tu export de tweets\n' +
             '/generar — Generar un nuevo tweet\n' +
             '/tema <texto> — Generar tweet sobre un tema\n' +
+            '/pendientes — Ver tweets pendientes de aprobación (últimas 12h)\n' +
             '/status — Ver estadísticas\n' +
             '/start — Ver este mensaje',
         );
@@ -157,6 +172,41 @@ export class TelegramService implements OnModuleInit, OnModuleDestroy {
         await this.safeReply(
           ctx,
           `Error al generar: ${error instanceof Error ? error.message : String(error)}`,
+        );
+      }
+    });
+
+    // /pendientes: lista tweets pendientes de aprobación de las últimas 12 horas
+    // Cada tweet viene con su teclado de Aprobar/Rechazar/Regenerar, más un botón global "Aprobar todos"
+    this.bot.command('pendientes', async (ctx) => {
+      try {
+        const pending = await this.tweetGeneratorService.listPending(12);
+
+        if (pending.length === 0) {
+          await ctx.reply('No hay tweets pendientes en las últimas 12 horas.');
+          return;
+        }
+
+        await ctx.reply(`📋 ${pending.length} tweet(s) pendiente(s):`);
+
+        for (const tweet of pending) {
+          await ctx.reply(tweet.content, {
+            reply_markup: this.buildProposalKeyboard(tweet.id),
+          });
+        }
+
+        // Botón final para aprobar todos los pendientes de una
+        await ctx.reply('¿Aprobar todos?', {
+          reply_markup: new InlineKeyboard().text(
+            '✅ Aprobar todos',
+            'approve_all',
+          ),
+        });
+      } catch (error) {
+        this.logger.error(`/pendientes error: ${error}`);
+        await this.safeReply(
+          ctx,
+          `Error al listar pendientes: ${error instanceof Error ? error.message : String(error)}`,
         );
       }
     });
@@ -254,6 +304,46 @@ export class TelegramService implements OnModuleInit, OnModuleDestroy {
       } catch (error) {
         this.logger.error(`reject_other callback error: ${error}`);
         await ctx.answerCallbackQuery('Error');
+      }
+    });
+
+    // Aprobar todos los pendientes de las últimas 12h en batch
+    this.bot.callbackQuery('approve_all', async (ctx) => {
+      try {
+        await ctx.answerCallbackQuery('Aprobando todos...');
+        const pending = await this.tweetGeneratorService.listPending(12);
+
+        if (pending.length === 0) {
+          await ctx.editMessageText('No había pendientes para aprobar.');
+          return;
+        }
+
+        let published = 0;
+        let failed = 0;
+        for (const tweet of pending) {
+          try {
+            const result = await this.tweetGeneratorService.approve(tweet.id);
+            if (result.success || result.alreadyPublished) {
+              published++;
+            } else {
+              failed++;
+            }
+          } catch (err) {
+            this.logger.error(`approve_all: tweet ${tweet.id} failed: ${err}`);
+            failed++;
+          }
+        }
+
+        await ctx.editMessageText(
+          `✅ Aprobados: ${pending.length}\n` +
+            `📤 Publicados: ${published}\n` +
+            (failed > 0
+              ? `⚠️ Fallaron publicación (se reintentan): ${failed}`
+              : ''),
+        );
+      } catch (error) {
+        this.logger.error(`approve_all callback error: ${error}`);
+        await ctx.answerCallbackQuery('Error al aprobar todos');
       }
     });
 
