@@ -63,9 +63,9 @@ export class SchedulerService implements OnModuleInit {
     }
   }
 
-  // Cron 2: Genera 3 tweets al día a las 9:30, 18:30 y 21:30 hora Argentina
+  // Cron 2: Genera un tweet cada 2 horas de 9:00 a 21:00 hora Argentina (7 por día)
   // Cada uno se envía por Telegram para que el usuario lo apruebe/rechace
-  @Cron('30 9,18,21 * * *', { timeZone: HARDCODED_TIMEZONE })
+  @Cron('0 9-21/2 * * *', { timeZone: HARDCODED_TIMEZONE })
   async handleDailyTweetProposal(): Promise<void> {
     this.logger.log('Cron: Daily tweet proposal — START');
 
