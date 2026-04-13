@@ -400,17 +400,46 @@ systemctl list-timers | grep certbot
 
 **Explicación**: UFW (Uncomplicated Firewall) cierra TODOS los puertos salvo los que explícitamente permitas. Sin esto, cualquier servicio que levantes queda expuesto al mundo.
 
+### ⚠️ Importante — adaptar al puerto de SSH real
+
+El preset `OpenSSH` de UFW asume que SSH corre en el puerto **22**. **Si tu SSH está en otro puerto** (en nuestro VPS de HostGator está en `22022`), el preset te deja afuera — UFW abriría el 22 (vacío) y bloquearía tu puerto real.
+
+### Verificá primero en qué puerto está tu SSH
+
 ```bash
-# Como root
-ufw default deny incoming         # bloquear todo el tráfico entrante
-ufw default allow outgoing        # permitir todo el tráfico saliente
-ufw allow OpenSSH                 # dejar SSH abierto (si no, te quedás sin acceso)
-ufw allow 'Nginx Full'            # abrir puertos 80 y 443
-ufw enable                        # activar el firewall
-ufw status                        # verificar reglas aplicadas
+sudo ss -tulpn | grep sshd
+# Ejemplo de salida:
+# tcp LISTEN 0 128 0.0.0.0:22022 0.0.0.0:* users:(("sshd",pid=909,fd=3))
 ```
 
-**CUIDADO**: si te olvidás de `ufw allow OpenSSH` antes de `ufw enable`, **te quedás afuera del VPS**. HostGator tiene consola web por si eso pasa, pero evitémoslo.
+### Comandos adaptados (para SSH en puerto 22022)
+
+```bash
+# Como root
+ufw default deny incoming                              # bloquear todo el tráfico entrante
+ufw default allow outgoing                             # permitir todo el tráfico saliente
+ufw allow 22022/tcp comment 'SSH (puerto custom)'      # puerto REAL de SSH (NO usar OpenSSH preset)
+ufw allow 'Nginx Full'                                 # abrir puertos 80 y 443
+ufw show added                                         # verificar reglas ANTES de activar
+ufw enable                                             # activar el firewall
+ufw status verbose                                     # verificar reglas aplicadas
+```
+
+Si tu SSH está en el puerto 22 default, podés usar `ufw allow OpenSSH` en lugar de la línea de `22022/tcp`.
+
+### Test crítico — "no me quedé afuera"
+
+Después de `ufw enable`, **antes de cerrar tu sesión actual**:
+
+```bash
+# En una SEGUNDA terminal de tu Mac
+ssh -p 22022 root@TU-IP-VPS
+```
+
+Si funciona → firewall OK.
+Si falla → desde la sesión original viva, corré `sudo ufw disable` e investigá qué pasó.
+
+**CUIDADO**: si te olvidás de permitir el puerto correcto de SSH antes de `ufw enable`, **te quedás afuera del VPS**. HostGator tiene consola web por si eso pasa, pero evitémoslo.
 
 ---
 
