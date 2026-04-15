@@ -2,7 +2,7 @@ import { Injectable, Logger } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
 import { InjectRepository } from '@nestjs/typeorm';
 // In = operador SQL "IN (...)"; IsNull = operador SQL "IS NULL"
-import { In, IsNull, Repository } from 'typeorm';
+import { In, IsNull, MoreThanOrEqual, Repository } from 'typeorm';
 import { AnthropicService } from '../anthropic/anthropic.service.js';
 import { ContentSnapshot } from '../entities/content-snapshot.entity.js';
 import {
@@ -336,6 +336,19 @@ export class TweetGeneratorService {
     }
 
     return { succeeded, failed, maxRetriesExceeded };
+  }
+
+  // Lista tweets pendientes generados en las últimas `sinceHours` horas (desc por fecha)
+  // Lo usa el comando /pendientes de Telegram para rescatar propuestas sin aprobar
+  async listPending(sinceHours: number): Promise<GeneratedTweet[]> {
+    const since = new Date(Date.now() - sinceHours * 60 * 60 * 1000).toISOString();
+    return this.tweetRepo.find({
+      where: {
+        status: 'pending' as TweetStatus,
+        created_at: MoreThanOrEqual(since),
+      },
+      order: { created_at: 'DESC' },
+    });
   }
 
   // Calcula estadísticas de todos los tweets para el comando /status de Telegram

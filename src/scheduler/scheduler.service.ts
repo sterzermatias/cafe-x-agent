@@ -45,9 +45,9 @@ export class SchedulerService implements OnModuleInit {
     this.logger.log(`Scheduler initialized (timezone: ${configuredTz})`);
   }
 
-  // Cron 1: Captura contenido RSS 2 veces al día (9AM y 6PM Argentina = 12:00 y 21:00 UTC)
+  // Cron 1: Captura contenido RSS 2 veces al día a las 9:00 y 18:00 hora Argentina
   // Alimenta al agente con contenido fresco para generar tweets relevantes
-  @Cron('0 12,21 * * *', { timeZone: HARDCODED_TIMEZONE })
+  @Cron('0 9,18 * * *', { timeZone: HARDCODED_TIMEZONE })
   async handleRssCapture(): Promise<void> {
     this.logger.log('Cron: RSS content capture — START');
 
@@ -63,18 +63,16 @@ export class SchedulerService implements OnModuleInit {
     }
   }
 
-  // Cron 2: Genera un tweet diario a las 10AM Argentina (13:00 UTC)
-  // Lo envía por Telegram para que el usuario lo apruebe/rechace
-  @Cron('0 13 * * *', { timeZone: HARDCODED_TIMEZONE })
+  // Cron 2: Genera un tweet cada 2 horas de 9:00 a 21:00 hora Argentina (7 por día)
+  // Cada uno se envía por Telegram para que el usuario lo apruebe/rechace
+  @Cron('0 9-21/2 * * *', { timeZone: HARDCODED_TIMEZONE })
   async handleDailyTweetProposal(): Promise<void> {
     this.logger.log('Cron: Daily tweet proposal — START');
 
     try {
       const result = await this.tweetGeneratorService.generate();
       this.logger.log(`Cron: Daily tweet proposal — DONE (id: ${result.id})`);
-      await this.safeNotify(
-        `📝 Tweet propuesto:\n\n${result.tweet}\n\nUsá /status o el bot para aprobar/rechazar.`,
-      );
+      await this.telegramService.sendProposal(result.id, result.tweet);
     } catch (error) {
       const message = error instanceof Error ? error.message : String(error);
       this.logger.error(`Cron: Daily tweet proposal — FAILED: ${message}`);
@@ -114,7 +112,7 @@ export class SchedulerService implements OnModuleInit {
     }
   }
 
-  // Cron 4: Refinamiento semanal del perfil basado en feedback (Domingos 11AM Argentina)
+  // Cron 4: Refinamiento semanal del perfil basado en feedback (Domingos 14:00 hora Argentina)
   // Carga tweets aprobados y rechazados de los últimos 7 días y le pide a Claude
   // que ajuste el perfil del usuario para mejorar futuras generaciones
   @Cron('0 14 * * 0', { timeZone: HARDCODED_TIMEZONE })
