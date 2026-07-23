@@ -157,7 +157,7 @@ export class TweetGeneratorService {
       prompt_template_version: '1.0',
       model_used:
         this.configService.get<string>('ANTHROPIC_SONNET_MODEL') ||
-        'claude-sonnet-4-20250514',
+        'claude-sonnet-5',
       rss_sources: snapshot?.source_feeds ?? [],
       recent_approved_ids: approvedTweets.map((t) => t.id),
       recent_rejected_ids: rejectedTweets.map((t) => t.id),

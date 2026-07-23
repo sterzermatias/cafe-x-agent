@@ -67,7 +67,7 @@ export class EnvironmentVariables {
 
   @IsString()
   @IsOptional()
-  ANTHROPIC_SONNET_MODEL: string = 'claude-sonnet-4-20250514';
+  ANTHROPIC_SONNET_MODEL: string = 'claude-sonnet-5';
 
   @IsString()
   @IsOptional()
