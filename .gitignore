@@ -29,3 +29,9 @@ lerna-debug.log*
 db.sqlite
 db.sqlite-wal
 db.sqlite-shm
+
+# Tweet export data — synced to VPS via scp, not versioned
+data/*.json
+
+# macOS
+.DS_Store

@@ -62,8 +62,7 @@ export class AnthropicService implements OnModuleInit {
       this.config.get<string>('ANTHROPIC_HAIKU_MODEL') ||
       'claude-haiku-4-5-20251001';
     this.sonnetModel =
-      this.config.get<string>('ANTHROPIC_SONNET_MODEL') ||
-      'claude-sonnet-4-20250514';
+      this.config.get<string>('ANTHROPIC_SONNET_MODEL') || 'claude-sonnet-5';
 
     this.logger.log(
       `Anthropic client initialized (haiku: ${this.haikuModel}, sonnet: ${this.sonnetModel})`,
@@ -77,6 +76,11 @@ export class AnthropicService implements OnModuleInit {
     const prompt = `You are a social media analyst. Analyze the following tweets from a user and extract:
 1. Their writing style (tone, voice, typical sentence structure, use of slang/emojis, language patterns).
 2. Their main interests and topics they engage with.
+
+When describing emoji usage in the style:
+- Characterize emojis by VARIETY or RANGE (e.g. "uses a varied set of emojis", "mixes reaction emojis with thematic ones").
+- Do NOT single out one specific emoji as defining the style unless that one emoji appears in the overwhelming majority of tweets that contain any emoji (>60%).
+- If listing examples, list 3-5 different emojis to convey range, not a single recurring one.
 
 Tweets:
 ${input.tweets.map((t, i) => `${i + 1}. ${t}`).join('\n')}

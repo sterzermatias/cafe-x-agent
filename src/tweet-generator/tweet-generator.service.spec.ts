@@ -50,7 +50,7 @@ describe('TweetGeneratorService', () => {
   };
 
   const mockConfigService = {
-    get: jest.fn().mockReturnValue('claude-sonnet-4-20250514'),
+    get: jest.fn().mockReturnValue('claude-sonnet-5'),
   };
 
   const mockTweetRepo = {
@@ -132,7 +132,7 @@ describe('TweetGeneratorService', () => {
           status: 'pending',
           generation_context: expect.objectContaining({
             source_type: 'scheduled',
-            model_used: 'claude-sonnet-4-20250514',
+            model_used: 'claude-sonnet-5',
           }),
         }),
       );
