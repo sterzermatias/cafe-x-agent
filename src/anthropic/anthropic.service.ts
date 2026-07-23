@@ -62,8 +62,7 @@ export class AnthropicService implements OnModuleInit {
       this.config.get<string>('ANTHROPIC_HAIKU_MODEL') ||
       'claude-haiku-4-5-20251001';
     this.sonnetModel =
-      this.config.get<string>('ANTHROPIC_SONNET_MODEL') ||
-      'claude-sonnet-4-20250514';
+      this.config.get<string>('ANTHROPIC_SONNET_MODEL') || 'claude-sonnet-5';
 
     this.logger.log(
       `Anthropic client initialized (haiku: ${this.haikuModel}, sonnet: ${this.sonnetModel})`,
